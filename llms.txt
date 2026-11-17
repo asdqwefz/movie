@@ -1,0 +1,13 @@
+# MoviesParty
+
+> Free watch party for movies with friends. Create a room, share the code and press play together, with synced playback, voice, video and chat.
+
+MoviesParty is a watch party service: create a room, share the room code, and everyone presses play at the same time. It does not host movies; each person plays their own copy or subscription and MoviesParty syncs the playhead.
+
+## Pages
+- [English](https://moviesparty.com/): main page
+- [Türkçe](https://moviesparty.com/tr/): Birlikte film izle
+- [Español](https://moviesparty.com/es/): Ver películas juntos
+- [Deutsch](https://moviesparty.com/de/): Gemeinsam Filme schauen
+- [How to watch movies together online](https://moviesparty.com/watch-movies-together-online/): guide
+- [Teleparty alternative](https://moviesparty.com/teleparty-alternative/): comparison
