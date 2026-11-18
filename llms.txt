@@ -7,7 +7,7 @@ MoviesParty is a watch party service: create a room, share the room code, and ev
 ## Facts
 - Free plan: 1080p, public rooms, chat. Premium: 4K Ultra HD, private rooms, priority sync (pricing not announced).
 - Languages: English, Turkish, Spanish, German.
-- Works in the browser, no install. Does not host or stream movies.
+- Windows app today (macOS coming soon). Rooms run in the app, not in the browser. Does not host or stream movies.
 - Contact: contact@moviesparty.com
 
 ## Pages
@@ -20,7 +20,6 @@ MoviesParty is a watch party service: create a room, share the room code, and ev
 - [How to host a watch party](https://moviesparty.com/how-to-host-a-watch-party/): guide
 - [Long-distance movie night ideas](https://moviesparty.com/long-distance-movie-night-ideas/): guide
 - [How to sync movies with friends](https://moviesparty.com/how-to-sync-movies-with-friends/): guide
-- [Watch movies on your phone with friends](https://moviesparty.com/watch-movies-on-phone-with-friends/): guide
 - [About](https://moviesparty.com/about/): company
 - [Contact](https://moviesparty.com/contact/): company
 - [Privacy Policy](https://moviesparty.com/privacy/): company
@@ -28,15 +27,12 @@ MoviesParty is a watch party service: create a room, share the room code, and ev
 - [Watch party nasıl yapılır](https://moviesparty.com/tr/watch-party-nasil-yapilir/): TR guide
 - [Uzak mesafe film gecesi fikirleri](https://moviesparty.com/tr/uzak-mesafe-film-gecesi-fikirleri/): TR guide
 - [Arkadaşlarla filmi senkronize etme](https://moviesparty.com/tr/arkadaslarla-filmi-senkronize-etme/): TR guide
-- [Telefonda arkadaşlarla film izle](https://moviesparty.com/tr/telefonda-arkadaslarla-film-izle/): TR guide
 - [Cómo organizar una watch party](https://moviesparty.com/es/como-organizar-una-watch-party/): ES guide
 - [Ideas para una noche de cine a distancia](https://moviesparty.com/es/ideas-noche-de-cine-a-distancia/): ES guide
 - [Cómo sincronizar películas con amigos](https://moviesparty.com/es/como-sincronizar-peliculas-con-amigos/): ES guide
-- [Ver películas en el móvil con amigos](https://moviesparty.com/es/ver-peliculas-en-el-movil-con-amigos/): ES guide
 - [Watch Party veranstalten](https://moviesparty.com/de/watch-party-veranstalten/): DE guide
 - [Filmabend auf Distanz: Ideen](https://moviesparty.com/de/filmabend-auf-distanz-ideen/): DE guide
 - [Filme mit Freunden synchronisieren](https://moviesparty.com/de/filme-mit-freunden-synchronisieren/): DE guide
-- [Filme mit Freunden auf dem Handy schauen](https://moviesparty.com/de/filme-mit-freunden-auf-dem-handy-schauen/): DE guide
 - [Free watch party website](https://moviesparty.com/free-watch-party-website/): guide
 - [Watch party vs screen sharing](https://moviesparty.com/watch-party-vs-screen-sharing/): guide
 - [Watch party troubleshooting](https://moviesparty.com/watch-party-troubleshooting/): guide
