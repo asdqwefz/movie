@@ -498,9 +498,11 @@ dialog .r{display:flex;gap:.6rem}
 <div class="dv" id="v1">
 <div class="tabs" data-t="0" role="tablist"><i class="th"></i><button type="button" role="tab" id="t1" aria-selected="true" data-i="c1">Raum erstellen</button><button type="button" role="tab" id="t2" aria-selected="false" data-i="c2">Mit Code beitreten</button></div>
 <div class="film" id="mf" hidden></div>
-<div class="pane" id="p1">
+<div class="pane" id="who0">
 <div class="who"><div class="av2" id="av">?</div><input id="nm" maxlength="20" data-p="nm" autocomplete="off"><button class="dice" id="dc" type="button" aria-label="Random name">🎲</button></div>
 <div class="sw" id="sw" role="group" aria-label="Color"></div>
+</div>
+<div class="pane" id="p1">
 <div class="mxr"><span id="mxl"></span><div class="mxp" id="mxp" role="group"></div></div>
 <label class="tg"><span data-i="tg1">Privater Raum</span><input type="checkbox" checked><i></i></label>
 <label class="tg"><span data-i="tg2">Alle dürfen pausieren und spulen</span><input type="checkbox" checked><i></i></label>
@@ -620,7 +622,7 @@ var ct=$("#ctc");ct.textContent="";code.split("").forEach(function(ch,i){var s=d
 var s2=$("#s2");s2.textContent="";var h=document.createElement("div"),cp=document.createElement("small");h.className="seat me";h.style.background=col;h.textContent=n.charAt(0).toUpperCase();cp.textContent="👑 "+n;h.appendChild(cp);s2.appendChild(h);
 for(var k=0;k<maxP-1;k++){var e=document.createElement("div");e.className="seat";e.style.animationDelay=(k*.25)+"s";s2.appendChild(e)}
 v1.hidden=true;v2.hidden=false;msg2.textContent=""}
-$("#mk").onclick=make;nmI.addEventListener("keydown",function(e){if(e.key==="Enter")make()});
+$("#mk").onclick=make;nmI.addEventListener("keydown",function(e){if(e.key==="Enter"){if(tabs.dataset.t==1)join();else make()}});
 function join(){var cc=cleanCode(cdI.value);cdI.value=cc;if(cc.length!==6){cdI.classList.remove("shake");void cdI.offsetWidth;cdI.classList.add("shake");cdI.focus();return}enterRoom(cc)}
 $("#jn").onclick=join;cdI.addEventListener("keydown",function(e){if(e.key==="Enter")join()});
 function copy(){try{navigator.clipboard.writeText(code).then(function(){var s=$("#cpb span");s.textContent=T.ok;setTimeout(function(){s.textContent=T.cp},1600)})}catch(_){}}
