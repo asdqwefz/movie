@@ -306,68 +306,8 @@
             }
         }
 
-        .room {
-            position: relative;
-            border: 1px solid var(--line);
-            border-radius: 28px;
-            padding: .8rem;
-            background: var(--surf);
-            box-shadow: 0 50px 100px -40px rgba(229, 36, 47, .55)
-        }
-
-        .scr {
-            position: relative;
-            aspect-ratio: 16/8;
-            border-radius: 20px;
-            overflow: hidden;
-            background: #12060a
-        }
-
-        .bl {
-            position: absolute;
-            border-radius: 50%;
-            filter: blur(46px);
-            animation: dr 8s ease-in-out infinite alternate;
-            animation-play-state: paused
-        }
-
-        .on .bl,
         .vp.a .eq i {
             animation-play-state: running
-        }
-
-        .b1 {
-            width: 50%;
-            height: 80%;
-            left: -10%;
-            top: -25%;
-            background: #E5242F
-        }
-
-        .b2 {
-            width: 40%;
-            height: 70%;
-            right: -8%;
-            bottom: -25%;
-            background: #FF7A59;
-            opacity: .7;
-            animation-delay: -3s
-        }
-
-        .b3 {
-            width: 35%;
-            height: 60%;
-            left: 35%;
-            top: 25%;
-            background: #7A0F1B;
-            opacity: .9;
-            animation-delay: -6s
-        }
-
-        @keyframes dr {
-            to {
-                transform: translate(18%, 12%) scale(1.25)
-            }
         }
 
         .ttl {
@@ -377,48 +317,6 @@
             font: 900 clamp(1.1rem, 2.4vw, 1.8rem) var(--d);
             font-stretch: 115%;
             letter-spacing: -.03em
-        }
-
-        .cs {
-            position: absolute;
-            left: 0;
-            top: 0;
-            display: flex;
-            font: 800 .72rem var(--b);
-            pointer-events: none;
-            will-change: transform
-        }
-
-        .cs svg {
-            width: 18px;
-            height: 18px
-        }
-
-        .cs span {
-            padding: .1rem .55rem;
-            border-radius: 999px;
-            color: #1a0508;
-            margin-top: 12px
-        }
-
-        .chat {
-            position: absolute;
-            right: .8rem;
-            bottom: .8rem;
-            display: flex;
-            flex-direction: column;
-            gap: .35rem;
-            align-items: flex-end
-        }
-
-        .chat span {
-            background: rgba(12, 7, 9, .78);
-            border: 1px solid var(--line);
-            backdrop-filter: blur(6px);
-            border-radius: 14px;
-            padding: .2rem .7rem;
-            font-size: .92rem;
-            animation: pop .6s linear(0, .5 14%, 1.12 36%, .98 60%, 1)
         }
 
         @keyframes pop {
@@ -453,40 +351,6 @@
             }
         }
 
-        .pl {
-            position: absolute;
-            inset: 0;
-            margin: auto;
-            width: 5rem;
-            height: 5rem;
-            border-radius: 50%;
-            border: 0;
-            background: var(--red);
-            color: #fff;
-            font-size: 1.6rem;
-            cursor: pointer;
-            box-shadow: 0 0 0 12px rgba(229, 36, 47, .25);
-            transition: transform .5s linear(0, .5 10%, 1.1 28%, .97 48%, 1), opacity .3s
-        }
-
-        .pl:hover {
-            transform: scale(1.1)
-        }
-
-        .on .pl {
-            opacity: 0;
-            transform: scale(.6);
-            pointer-events: none
-        }
-
-        .bar {
-            display: flex;
-            align-items: center;
-            gap: .8rem;
-            padding: .9rem .5rem .3rem;
-            flex-wrap: wrap
-        }
-
         .trk {
             flex: 1;
             min-width: 8rem;
@@ -503,41 +367,6 @@
             width: 0;
             border-radius: 9px;
             background: var(--red)
-        }
-
-        #tc,
-        .sy {
-            font: 700 .82rem var(--b);
-            font-variant-numeric: tabular-nums;
-            color: var(--mut)
-        }
-
-        .sy {
-            color: #7CE3B0
-        }
-
-        .rx {
-            display: flex;
-            gap: .3rem
-        }
-
-        .rx button {
-            background: rgba(246, 236, 228, .07);
-            border: 0;
-            border-radius: 999px;
-            width: 2.4rem;
-            height: 2.4rem;
-            cursor: pointer;
-            font-size: 1.15rem;
-            transition: transform .4s linear(0, .5 12%, 1.2 32%, .96 56%, 1)
-        }
-
-        .rx button:hover {
-            transform: scale(1.25) rotate(-8deg)
-        }
-
-        .rx button:active {
-            transform: scale(.85)
         }
 
         .mq {
@@ -692,28 +521,6 @@
             to {
                 height: 100%
             }
-        }
-
-        .cf {
-            display: flex;
-            align-items: center;
-            gap: .7rem;
-            border: 1px dashed var(--line);
-            border-radius: 14px;
-            padding: .7rem 1rem;
-            font: 700 .95rem var(--b);
-            background: rgba(246, 236, 228, .04)
-        }
-
-        .cf i {
-            width: 1.8rem;
-            height: 1.8rem;
-            border-radius: 50%;
-            display: grid;
-            place-items: center;
-            font: 900 .8rem var(--d);
-            font-style: normal;
-            color: #1a0508
         }
 
         .ch article {
@@ -988,17 +795,6 @@
             }
         }
 
-        .rm {
-            display: grid;
-            grid-template-columns: 1.9fr 1fr;
-            gap: .8rem;
-            border: 1px solid var(--line);
-            border-radius: 28px;
-            padding: .8rem;
-            background: var(--surf);
-            box-shadow: 0 50px 100px -40px rgba(229, 36, 47, .55)
-        }
-
         .stage {
             position: relative;
             aspect-ratio: 16/9;
@@ -1122,10 +918,6 @@
             translate: -50% 0
         }
 
-        .stage .pl {
-            z-index: 4
-        }
-
         .stage .fl {
             z-index: 5
         }
@@ -1155,13 +947,6 @@
             cursor: pointer;
             font-size: .85rem;
             flex: none
-        }
-
-        .side {
-            display: flex;
-            flex-direction: column;
-            gap: .7rem;
-            min-height: 0
         }
 
         .tiles {
@@ -1266,34 +1051,10 @@
         }
 
         @media (max-width:860px) {
-            .rm {
-                grid-template-columns: 1fr
-            }
 
             .chat2 {
                 min-height: 7rem
             }
-        }
-
-        .pn {
-            position: absolute;
-            inset: 9% 0;
-            z-index: 3;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            gap: 1rem;
-            opacity: 0;
-            scale: .94;
-            pointer-events: none;
-            transition: opacity .4s, scale .7s linear(0, .4 10%, 1.06 30%, .99 52%, 1)
-        }
-
-        .pn.a {
-            opacity: 1;
-            scale: 1;
-            pointer-events: auto
         }
 
         .stage .sky {
@@ -1303,34 +1064,6 @@
 
         .stage[data-s="2"] .sky {
             opacity: 1
-        }
-
-        .gc {
-            background: rgba(12, 7, 9, .74);
-            backdrop-filter: blur(10px);
-            border: 1px solid var(--line);
-            border-radius: 22px;
-            padding: 1.2rem;
-            width: min(88%, 24rem);
-            display: flex;
-            flex-direction: column;
-            gap: .7rem
-        }
-
-        .gc input {
-            width: 100%;
-            background: transparent;
-            border: 2px solid var(--line);
-            border-radius: 12px;
-            padding: .8rem 1rem
-        }
-
-        .cbig {
-            font: 900 clamp(2.4rem, 7vw, 4.6rem)/1 var(--d);
-            font-stretch: 115%;
-            letter-spacing: .06em;
-            color: var(--hot);
-            text-shadow: 0 4px 30px rgba(0, 0, 0, .6)
         }
 
         .seats {
@@ -1384,69 +1117,6 @@
         .toast {
             max-width: 90%;
             text-align: center
-        }
-
-        .stp {
-            list-style: none;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            gap: .7rem;
-            justify-content: center;
-            height: 100%
-        }
-
-        .stp button {
-            width: 100%;
-            text-align: left;
-            display: flex;
-            gap: .9rem;
-            align-items: flex-start;
-            color: inherit;
-            background: rgba(246, 236, 228, .05);
-            border: 1px solid var(--line);
-            border-radius: 18px;
-            padding: 1rem;
-            cursor: pointer;
-            opacity: .55;
-            transition: opacity .3s, background .3s, border-color .3s
-        }
-
-        .stp li.on button {
-            opacity: 1;
-            background: rgba(229, 36, 47, .14);
-            border-color: var(--red)
-        }
-
-        .stp i {
-            flex: none;
-            width: 2rem;
-            height: 2rem;
-            border-radius: 50%;
-            background: var(--line);
-            display: grid;
-            place-items: center;
-            font: 900 .95rem var(--d);
-            font-style: normal
-        }
-
-        .stp li.on i {
-            background: var(--red);
-            color: #fff
-        }
-
-        .stp b {
-            display: block;
-            font: 800 1.05rem var(--b)
-        }
-
-        .stp small {
-            display: block;
-            color: var(--mut);
-            font-size: .9rem;
-            line-height: 1.4;
-            margin-top: .2rem
         }
 
         [hidden] {
@@ -3971,26 +3641,6 @@
             }
         }
 
-        .tl.fj {
-            animation: pop .6s linear(0, .5 14%, 1.15 36%, .98 60%, 1)
-        }
-
-        .fcam {
-            position: absolute;
-            inset: 0;
-            display: grid;
-            place-items: center;
-            font-size: 2.3rem;
-            background: radial-gradient(circle at 50% 35%, rgba(255, 255, 255, .35), transparent 60%);
-            animation: fcm 3.2s ease-in-out infinite alternate
-        }
-
-        @keyframes fcm {
-            to {
-                transform: scale(1.18) rotate(4deg)
-            }
-        }
-
         .mxr {
             display: flex;
             align-items: center;
@@ -4289,6 +3939,21 @@
         .fl2 a[aria-current] {
             color: var(--bone)
         }
+    
+        /* hero demo: browser window turns into the desktop app */
+        .bw { transition: border-color .4s }
+        .bw .wc { display: none; margin-left: .2rem; gap: 1.1rem; font: 600 .8rem var(--b); color: var(--mut) }
+        .bw.app .wc { display: flex }
+        .bw.app .bt>i { display: none }
+        .bw.app { border-color: rgba(229, 36, 47, .55) }
+        .bw.app .url { background: none; padding-left: .2rem; font-weight: 800; color: var(--bone); display: flex; align-items: center; gap: .5rem }
+        .bw.app .url::before { content: ""; flex: none; width: 1rem; height: 1rem; border-radius: .3rem; background: var(--red) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M9 6.5v11l9-5.5z' fill='white'/%3E%3C/svg%3E") center/contain no-repeat }
+        .vp2 .spl { position: absolute; inset: 0; z-index: 8; background: var(--bg); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1.2em; opacity: 0; transition: opacity .35s }
+        .vp2 .spl.o { opacity: 1 }
+        .vp2 .spl .ic2 { width: 5em; height: 5em; border-radius: 1.2em; background: var(--red) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M9 6.5v11l9-5.5z' fill='white'/%3E%3C/svg%3E") center/58% no-repeat; box-shadow: 0 0 0 .8em rgba(229, 36, 47, .2) }
+        .vp2 .spl .sp3 { width: 2em; height: 2em; border-radius: 50%; border: .2em solid rgba(246, 236, 228, .16); border-top-color: var(--red); animation: r2spin .8s linear infinite }
+        .hud.tl2 .chip+.chip { margin-left: .4em }
+        @media (max-width: 640px) { #rmt { display: none !important } }
     </style>
 </head>
 
@@ -4327,10 +3992,11 @@
                 </div>
                 <div class="rec" role="img"
                     aria-label="Screen recording: creating a room on the site, picking a movie, downloading the MoviesParty app and watching together">
-                    <div class="bw">
+                    <div class="bw" id="bw">
                         <div class="bt"><i></i><i></i><i></i><span class="url" id="url">moviesparty.com</span><span
-                                class="rcb"><b></b>REC <span id="rt">00:00</span></span></div>
+                                class="rcb"><b></b>REC <span id="rt">00:00</span></span><span class="wc" aria-hidden="true"><span>—</span><span>▢</span><span>✕</span></span></div>
                         <div class="vp2" id="vp2">
+                            <div class="spl" id="spl" aria-hidden="true"><span class="ic2"></span><i class="sp3"></i></div>
                             <div class="scn off" id="sescn">
                                 <div class="mh"><span class="ml">MoviesParty</span><span class="mp" data-i="n1">Birlikte
                                         İzle</span><span class="mp" data-i="n2">Premium</span><span class="mb"
@@ -4420,7 +4086,7 @@
                                         <g class="ly" style="--s:30s"></g>
                                     </svg>
                                     <div class="fx"></div>
-                                    <div class="hud tl2"><span class="chip" id="rcc">🔒 K7M2N9</span></div>
+                                    <div class="hud tl2"><span class="chip" id="rcc">🔒 K7M2N9</span><span class="chip" id="rmt" hidden></span></div>
                                     <div class="hud tr2"><span class="chip live" id="rsy" hidden></span></div>
                                     <div class="cdn" id="cdn"></div>
                                     <div class="ctl"><span class="pb">▶</span>
@@ -4979,12 +4645,12 @@
 
             <script>
                 (function () {
-                    var K = "n1 n2 n3 sub c1 c2 rt rs ft f1t f1d f2t f2d f3t f3d dt dd soon nm mk cp ok jp jn e1 e2 ready pt pf p1 p2 r1 r2 src st r3 nw src2 s1t s1d s2t s2d s3t s3d go2 sd tg1 tg2 wt sh ns dlt dld dlb pkm ply".split(" ");
+                    var K = "n1 n2 sub c1 c2 rt ft f1t f1d f2t f2d f3t f3d dt dd soon nm mk cp ok jp jn ready pt pf p1 p2 r1 r2 src st r3 nw src2 s1t s1d s2t s2d s3t s3d go2 sd tg1 tg2 wt sh dlt dld dlb pkm".split(" ");
                     var D = {
-                        en: ["Watch Together", "Premium", "App", "Press play together. Everyone sees the same frame in the same second, with voice and chat open beside it.", "Create a room", "Join with a code", "Movies", "", "One screen, many seats", "Frame-perfect sync", "Pause, seek or replay. Everyone lands on the same frame together.", "Talk over the film", "Voice, video and text chat stay beside the player. Mute with one tap.", "Your movies live in the app", "Add your own copy or your subscription to the MoviesParty library. We never host the film, we only sync the playhead.", "Desktop app", "The Windows app is ready to download. macOS is on the way. Everyone in the room needs the app.", "Coming soon", "Your name", "Create room", "Copy code", "Copied", "Room code", "Join", "Enter your name first, then create the room.", "Rooms run in the MoviesParty Windows app. Download it to create or join a room.", "Room ready. Send this code to your friends.", "Free for everyone. Premium for the big screen.", "Free", "1080p, public rooms and chat for as many movie nights as you like.", "4K Ultra HD, private rooms and priority sync. Pricing to be announced.", "Popular right now", "All-time favorites", "Ratings: IMDb, 2025 snapshot. Posters and movie data: TMDB.", "Start a room", "New releases", "New", "Release info: Box Office Mojo, November 2026.", "Create a room", "On the site, press Create a room, type your name, copy the code and press Start together.", "Pick a movie and install", "Choose a film in the room, press play, then download the Windows app from the download menu.", "Watch together", "Friends join the room with the code, then the countdown starts everyone on the same frame with chat open.", "Start together", "In sync", "Private room", "Everyone can pause and seek", "Waiting for friends", "Share", "Rooms are not connected to a server in this version.", "Download the app to continue", "Rooms run in the MoviesParty app. Install it, open it and enter your room code to watch together.", "Back to site", "Choose a movie", "Play"],
-                        tr: ["Birlikte İzle", "Premium", "Uygulama", "Oynat’a birlikte bas. Herkes aynı kareyi aynı saniyede görür; sesli ve yazılı sohbet yanında açık kalır.", "Oda kur", "Kodla katıl", "Filmler", "", "Tek ekran, çok koltuk", "Kare kare senkron", "Duraklat, ileri sar, geri al. Herkes aynı kareye birlikte iner.", "Filmin üstünden konuş", "Sesli, görüntülü ve yazılı sohbet oynatıcının yanında durur. Tek dokunuşla sustur.", "Filmler uygulamanın içinde", "Kendi kopyanı ya da aboneliğini uygulamanın film rafına ekle. Filmi biz barındırmıyoruz, sadece konumu eşitleriz.", "Masaüstü uygulaması", "Windows uygulaması indirilmeye hazır, macOS sürümü yolda. Odadaki herkesin uygulamaya ihtiyacı var.", "Yakında", "Adın", "Oda kur", "Kodu kopyala", "Kopyalandı", "Oda kodu", "Katıl", "Önce adını yaz, sonra odayı kur.", "Odalar MoviesParty Windows uygulamasında çalışır. Oda kurmak veya katılmak için uygulamayı indir.", "Oda hazır. Bu kodu arkadaşlarına gönder.", "Herkese ücretsiz. Büyük ekran için Premium.", "Ücretsiz", "İstediğin kadar film gecesi için 1080p, herkese açık odalar ve sohbet.", "4K Ultra HD, özel odalar ve öncelikli senkron. Fiyat daha sonra açıklanacak.", "Şu an popüler", "Tüm zamanların favorileri", "Puanlar: IMDb, 2025 verisi. Afişler ve film bilgileri: TMDB.", "Oda başlat", "Yeni çıkanlar", "Yeni", "Vizyon bilgisi: Box Office Mojo, Kasım 2026.", "Oda kur", "Sitede Oda kur’a bas, adını yaz, kodu kopyala ve Birlikte başlat’a bas.", "Film seç ve uygulamayı indir", "Odada bir film seç, oynat’a bas, sonra indirme menüsünden Windows uygulamasını indir.", "Birlikte izle", "Arkadaşların kodla odaya katılır, geri sayım herkesi aynı karede başlatır; sohbet açık kalır.", "Birlikte başlat", "Senkron", "Özel oda", "Herkes durdurup ileri sarabilir", "Arkadaşların bekleniyor", "Paylaş", "Bu sürümde odalar henüz sunucuya bağlı değil.", "Devam etmek için uygulamayı indir", "Odalar MoviesParty uygulamasında çalışır. Uygulamayı kur, aç ve birlikte izlemek için oda kodunu gir.", "Siteye dön", "Film seç", "Oynat"],
-                        es: ["Ver juntos", "Premium", "App", "Pulsad play a la vez. Todos ven el mismo fotograma en el mismo segundo, con voz y chat al lado.", "Crear una sala", "Unirse con código", "Películas", "", "Una pantalla, muchos asientos", "Sincronía fotograma a fotograma", "Pausa, avanza o retrocede. Todos aterrizan en el mismo fotograma a la vez.", "Habla sobre la película", "Voz, vídeo y chat de texto se quedan junto al reproductor. Silencia con un toque.", "Tus películas viven en la app", "Añade tu copia o tu suscripción a la estantería de la app. No alojamos la película, solo sincronizamos la posición.", "App de escritorio", "La app de Windows está lista para descargar y la de macOS está en camino. Todos en la sala necesitan la app.", "Próximamente", "Tu nombre", "Crear sala", "Copiar código", "Copiado", "Código de sala", "Unirse", "Escribe tu nombre y luego crea la sala.", "Las salas funcionan en la app de MoviesParty para Windows. Descárgala para crear una sala o unirte.", "Sala lista. Envía este código a tus amigos.", "Gratis para todos. Premium para la pantalla grande.", "Gratis", "1080p, salas públicas y chat para todas las noches de cine que quieras.", "4K Ultra HD, salas privadas y sincronía prioritaria. Precio por anunciar.", "Popular ahora mismo", "Favoritas de siempre", "Puntuaciones: IMDb, datos de 2025. Carteles y datos de películas: TMDB.", "Iniciar sala", "Estrenos", "Nuevo", "Información de estrenos: Box Office Mojo, noviembre de 2026.", "Crear una sala", "En el sitio, pulsa Crear una sala, escribe tu nombre, copia el código y pulsa Empezar juntos.", "Elige una película e instala", "Elige una película en la sala, pulsa reproducir y luego descarga la app de Windows desde el menú de descarga.", "Ver juntos", "Tus amigos se unen a la sala con el código y la cuenta atrás pone a todos en el mismo fotograma, con el chat abierto.", "Empezar juntos", "Sincronizado", "Sala privada", "Todos pueden pausar y avanzar", "Esperando a tus amigos", "Compartir", "En esta versión las salas aún no están conectadas a un servidor.", "Descarga la app para continuar", "Las salas funcionan en la app de MoviesParty. Instálala, ábrela e introduce tu código de sala para ver juntos.", "Volver al sitio", "Elige una película", "Reproducir"],
-                        de: ["Gemeinsam schauen", "Premium", "App", "Drückt gemeinsam auf Play. Alle sehen dasselbe Bild in derselben Sekunde, mit Sprach- und Textchat daneben.", "Raum erstellen", "Mit Code beitreten", "Filme", "", "Eine Leinwand, viele Plätze", "Bildgenau synchron", "Pausieren, springen, zurückspulen. Alle landen gemeinsam im selben Bild.", "Reden während des Films", "Sprach-, Video- und Textchat bleiben neben dem Player. Mit einem Tipp stumm.", "Deine Filme leben in der App", "Füge deine eigene Kopie oder dein Abo zur Bibliothek der App hinzu. Wir hosten keinen Film, wir gleichen nur die Position ab.", "Desktop-App", "Die Windows-App steht zum Download bereit, macOS folgt. Alle im Raum brauchen die App.", "Bald verfügbar", "Dein Name", "Raum erstellen", "Code kopieren", "Kopiert", "Raumcode", "Beitreten", "Gib zuerst deinen Namen ein, dann erstelle den Raum.", "Räume laufen in der MoviesParty-App für Windows. Lade sie herunter, um einen Raum zu erstellen oder beizutreten.", "Raum bereit. Schick diesen Code an deine Freunde.", "Kostenlos für alle. Premium für die große Leinwand.", "Kostenlos", "1080p, öffentliche Räume und Chat für so viele Filmabende, wie du willst.", "4K Ultra HD, private Räume und Prioritäts-Sync. Preis wird noch bekanntgegeben.", "Gerade beliebt", "Die größten Klassiker", "Bewertungen: IMDb, Stand 2025. Poster und Filmdaten: TMDB.", "Raum starten", "Neu im Kino", "Neu", "Starttermine: Box Office Mojo, November 2026.", "Raum erstellen", "Auf der Seite auf Raum erstellen klicken, Namen eingeben, Code kopieren und auf Gemeinsam starten klicken.", "Film wählen und installieren", "Wähle einen Film im Raum, drücke Play und lade die Windows-App dann im Download-Menü herunter.", "Gemeinsam schauen", "Deine Freunde treten mit dem Code bei, dann startet der Countdown alle im selben Bild, mit offenem Chat.", "Gemeinsam starten", "Synchron", "Privater Raum", "Alle dürfen pausieren und spulen", "Warte auf deine Freunde", "Teilen", "In dieser Version sind Räume noch nicht mit einem Server verbunden.", "Lade die App herunter, um fortzufahren", "Räume laufen in der MoviesParty-App. Installiere sie, öffne sie und gib deinen Raumcode ein, um gemeinsam zu schauen.", "Zurück zur Seite", "Film wählen", "Abspielen"]
+                        en: ["Watch Together", "Premium", "Press play together. Everyone sees the same frame in the same second, with voice and chat open beside it.", "Create a room", "Join with a code", "Movies", "One screen, many seats", "Frame-perfect sync", "Pause, seek or replay. Everyone lands on the same frame together.", "Talk over the film", "Voice, video and text chat stay beside the player. Mute with one tap.", "Your movies live in the app", "Add your own copy or your subscription to the MoviesParty library. We never host the film, we only sync the playhead.", "Desktop app", "The Windows app is ready to download. macOS is on the way. Everyone in the room needs the app.", "Coming soon", "Your name", "Create room", "Copy code", "Copied", "Room code", "Join", "Room ready. Send this code to your friends.", "Free for everyone. Premium for the big screen.", "Free", "1080p, public rooms and chat for as many movie nights as you like.", "4K Ultra HD, private rooms and priority sync. Pricing to be announced.", "Popular right now", "All-time favorites", "Ratings: IMDb, 2025 snapshot. Posters and movie data: TMDB.", "Start a room", "New releases", "New", "Release info: Box Office Mojo, November 2026.", "Create a room", "On the site, press Create a room, type your name, copy the code and press Start together.", "Pick a movie and install", "Choose a film in the room, press play, then download the Windows app from the download menu.", "Watch together", "Friends join the room with the code, then the countdown starts everyone on the same frame with chat open.", "Start together", "In sync", "Private room", "Everyone can pause and seek", "Waiting for friends", "Share", "Download the app to continue", "Rooms run in the MoviesParty app. Install it, open it and enter your room code to watch together.", "Back to site", "Choose a movie"],
+                        tr: ["Birlikte İzle", "Premium", "Oynat’a birlikte bas. Herkes aynı kareyi aynı saniyede görür; sesli ve yazılı sohbet yanında açık kalır.", "Oda kur", "Kodla katıl", "Filmler", "Tek ekran, çok koltuk", "Kare kare senkron", "Duraklat, ileri sar, geri al. Herkes aynı kareye birlikte iner.", "Filmin üstünden konuş", "Sesli, görüntülü ve yazılı sohbet oynatıcının yanında durur. Tek dokunuşla sustur.", "Filmler uygulamanın içinde", "Kendi kopyanı ya da aboneliğini uygulamanın film rafına ekle. Filmi biz barındırmıyoruz, sadece konumu eşitleriz.", "Masaüstü uygulaması", "Windows uygulaması indirilmeye hazır, macOS sürümü yolda. Odadaki herkesin uygulamaya ihtiyacı var.", "Yakında", "Adın", "Oda kur", "Kodu kopyala", "Kopyalandı", "Oda kodu", "Katıl", "Oda hazır. Bu kodu arkadaşlarına gönder.", "Herkese ücretsiz. Büyük ekran için Premium.", "Ücretsiz", "İstediğin kadar film gecesi için 1080p, herkese açık odalar ve sohbet.", "4K Ultra HD, özel odalar ve öncelikli senkron. Fiyat daha sonra açıklanacak.", "Şu an popüler", "Tüm zamanların favorileri", "Puanlar: IMDb, 2025 verisi. Afişler ve film bilgileri: TMDB.", "Oda başlat", "Yeni çıkanlar", "Yeni", "Vizyon bilgisi: Box Office Mojo, Kasım 2026.", "Oda kur", "Sitede Oda kur’a bas, adını yaz, kodu kopyala ve Birlikte başlat’a bas.", "Film seç ve uygulamayı indir", "Odada bir film seç, oynat’a bas, sonra indirme menüsünden Windows uygulamasını indir.", "Uygulamada izle", "Uygulama odanda açılır. Arkadaşların kodla katılır, geri sayım herkesi aynı karede başlatır.", "Birlikte başlat", "Senkron", "Özel oda", "Herkes durdurup ileri sarabilir", "Arkadaşların bekleniyor", "Paylaş", "Devam etmek için uygulamayı indir", "Odalar MoviesParty uygulamasında çalışır. Uygulamayı kur, aç ve birlikte izlemek için oda kodunu gir.", "Siteye dön", "Film seç"],
+                        es: ["Ver juntos", "Premium", "Pulsad play a la vez. Todos ven el mismo fotograma en el mismo segundo, con voz y chat al lado.", "Crear una sala", "Unirse con código", "Películas", "Una pantalla, muchos asientos", "Sincronía fotograma a fotograma", "Pausa, avanza o retrocede. Todos aterrizan en el mismo fotograma a la vez.", "Habla sobre la película", "Voz, vídeo y chat de texto se quedan junto al reproductor. Silencia con un toque.", "Tus películas viven en la app", "Añade tu copia o tu suscripción a la estantería de la app. No alojamos la película, solo sincronizamos la posición.", "App de escritorio", "La app de Windows está lista para descargar y la de macOS está en camino. Todos en la sala necesitan la app.", "Próximamente", "Tu nombre", "Crear sala", "Copiar código", "Copiado", "Código de sala", "Unirse", "Sala lista. Envía este código a tus amigos.", "Gratis para todos. Premium para la pantalla grande.", "Gratis", "1080p, salas públicas y chat para todas las noches de cine que quieras.", "4K Ultra HD, salas privadas y sincronía prioritaria. Precio por anunciar.", "Popular ahora mismo", "Favoritas de siempre", "Puntuaciones: IMDb, datos de 2025. Carteles y datos de películas: TMDB.", "Iniciar sala", "Estrenos", "Nuevo", "Información de estrenos: Box Office Mojo, noviembre de 2026.", "Crear una sala", "En el sitio, pulsa Crear una sala, escribe tu nombre, copia el código y pulsa Empezar juntos.", "Elige una película e instala", "Elige una película en la sala, pulsa reproducir y luego descarga la app de Windows desde el menú de descarga.", "Ver juntos", "Tus amigos se unen a la sala con el código y la cuenta atrás pone a todos en el mismo fotograma, con el chat abierto.", "Empezar juntos", "Sincronizado", "Sala privada", "Todos pueden pausar y avanzar", "Esperando a tus amigos", "Compartir", "Descarga la app para continuar", "Las salas funcionan en la app de MoviesParty. Instálala, ábrela e introduce tu código de sala para ver juntos.", "Volver al sitio", "Elige una película"],
+                        de: ["Gemeinsam schauen", "Premium", "Drückt gemeinsam auf Play. Alle sehen dasselbe Bild in derselben Sekunde, mit Sprach- und Textchat daneben.", "Raum erstellen", "Mit Code beitreten", "Filme", "Eine Leinwand, viele Plätze", "Bildgenau synchron", "Pausieren, springen, zurückspulen. Alle landen gemeinsam im selben Bild.", "Reden während des Films", "Sprach-, Video- und Textchat bleiben neben dem Player. Mit einem Tipp stumm.", "Deine Filme leben in der App", "Füge deine eigene Kopie oder dein Abo zur Bibliothek der App hinzu. Wir hosten keinen Film, wir gleichen nur die Position ab.", "Desktop-App", "Die Windows-App steht zum Download bereit, macOS folgt. Alle im Raum brauchen die App.", "Bald verfügbar", "Dein Name", "Raum erstellen", "Code kopieren", "Kopiert", "Raumcode", "Beitreten", "Raum bereit. Schick diesen Code an deine Freunde.", "Kostenlos für alle. Premium für die große Leinwand.", "Kostenlos", "1080p, öffentliche Räume und Chat für so viele Filmabende, wie du willst.", "4K Ultra HD, private Räume und Prioritäts-Sync. Preis wird noch bekanntgegeben.", "Gerade beliebt", "Die größten Klassiker", "Bewertungen: IMDb, Stand 2025. Poster und Filmdaten: TMDB.", "Raum starten", "Neu im Kino", "Neu", "Starttermine: Box Office Mojo, November 2026.", "Raum erstellen", "Auf der Seite auf Raum erstellen klicken, Namen eingeben, Code kopieren und auf Gemeinsam starten klicken.", "Film wählen und installieren", "Wähle einen Film im Raum, drücke Play und lade die Windows-App dann im Download-Menü herunter.", "Gemeinsam schauen", "Deine Freunde treten mit dem Code bei, dann startet der Countdown alle im selben Bild, mit offenem Chat.", "Gemeinsam starten", "Synchron", "Privater Raum", "Alle dürfen pausieren und spulen", "Warte auf deine Freunde", "Teilen", "Lade die App herunter, um fortzufahren", "Räume laufen in der MoviesParty-App. Installiere sie, öffne sie und gib deinen Raumcode ein, um gemeinsam zu schauen.", "Zurück zur Seite", "Film wählen"]
                     };
                     var T = {}, $ = function (s) { return document.querySelector(s) }, $$ = function (s) { return [].slice.call(document.querySelectorAll(s)) }, lg = $("#lg"), msg = $("#msg");
                     function apply(l) {
@@ -4997,7 +4663,7 @@
                     apply(saved);
                     lg.onchange = function () {
                         var l = lg.value; try { localStorage.setItem("mp-lang", l) } catch (_) { }
-                        var p = location.pathname; if (/^https?:$/.test(location.protocol) && p.indexOf("/room/") < 0 && p.indexOf("404.html") < 0 && location.hash.indexOf("/room/") < 0) { var b = p.replace(/index\.html$/, "").replace(/(tr|es|de)\/$/, ""); location.href = b + (l === "en" ? "" : l + "/"); return } apply(l)
+                        var p = location.pathname; if (/^https?:$/.test(location.protocol) && p.indexOf("/room/") < 0 && location.hash.indexOf("/room/") < 0) { var b = p.replace(/index\.html$/, "").replace(/(tr|es|de)\/$/, ""); location.href = b + (l === "en" ? "" : l + "/"); return } apply(l)
                     };
                     var still = matchMedia("(prefers-reduced-motion: reduce)").matches;
                     setTimeout(function () { var c = $("#cur"); if (c) c.remove() }, 2200);
@@ -5038,8 +4704,9 @@
                         $("#cn").textContent = n + 1; $("#ct").textContent = T["s" + (n + 1) + "t"]; $("#sdesc").textContent = T["s" + (n + 1) + "d"];
                         segs.forEach(function (g, i) { g.style.setProperty("--d", ms + "ms"); g.classList.remove("r"); g.classList.toggle("dn", i < n); if (i == n) { void g.offsetWidth; g.classList.add("r") } })
                     }
+                    var bw = $("#bw"), spl = $("#spl"), rmt = $("#rmt");
                     function reset() {
-                        stop(); setOn(0); dgo.classList.remove("o"); dgp.classList.remove("c"); rmv.classList.remove("o"); seats.forEach(function (s) { s.classList.remove("j") });
+                        stop(); setOn(0); bw.classList.remove("app"); spl.classList.remove("o"); rmt.hidden = true; dgo.classList.remove("o"); dgp.classList.remove("c"); rmv.classList.remove("o"); seats.forEach(function (s) { s.classList.remove("j") });
                         tiles.forEach(function (t, i) { t.classList.toggle("off", i > 0) });
                         rn.textContent = ""; rn.className = "inp"; rn.dataset.ph = T.nm; rsy.hidden = true; cdn.textContent = ""; chat.textContent = ""; url.textContent = "moviesparty.com"; rc.textContent = "K7M2N9"; $("#rcc").textContent = "🔒 K7M2N9"; $("#cp2").textContent = T.cp; toastEl.classList.remove("show");
                         sescn.classList.remove("off"); sescn.classList.add("dly"); home.classList.remove("dly"); home.classList.add("off");
@@ -5078,10 +4745,11 @@
                         q(15900, function () { gpw2.textContent = "77%" });
                         q(16500, function () { gpw2.textContent = "94%" });
                         q(16900, function () { gpw2.textContent = "100%"; gpw.classList.add("done"); toast("✅ MoviesParty") });
-                        q(17600, function () { dgr.classList.remove("o"); rmv.classList.remove("o"); home.classList.remove("off"); home.classList.add("dly"); toastEl.classList.remove("show") });
+                        q(17600, function () { dgr.classList.remove("o"); rmv.classList.remove("o"); spl.classList.add("o"); q(350, function () { bw.classList.add("app"); url.textContent = "MoviesParty" }); toastEl.classList.remove("show") });
                         q(18100, function () { dgr.hidden = true });
                         q(18400, function () { step(2, 11600) });
-                        q(19000, function () { rmv.classList.add("o") });
+                        q(19000, function () { rld.classList.remove("on"); rmt.textContent = "🎬 " + rcv1.getAttribute("aria-label"); rmt.hidden = false; rmv.classList.add("o") });
+                        q(19300, function () { spl.classList.remove("o") });
                         q(19600, function () { tiles[1].classList.remove("off"); toast("👋 Max") });
                         q(20600, function () { tiles[2].classList.remove("off"); toast("👋 Ada") });
                         q(21400, function () { pmv($(".ctl .pb")) });
@@ -5131,14 +4799,15 @@
                         v1.hidden = true; v2.hidden = false; msg2.textContent = ""
                     }
                     $("#mk").onclick = make; nmI.addEventListener("keydown", function (e) { if (e.key === "Enter") { if (tabs.dataset.t == 1) join(); else make() } });
-                    function join() { var cc = cleanCode(cdI.value); cdI.value = cc; if (cc.length !== 6) { cdI.classList.remove("shake"); void cdI.offsetWidth; cdI.classList.add("shake"); cdI.focus(); return } var p = PR[cc]; if (p && p[3] && !ageOk) { ageGate(); return } enterRoom(cc); if (p) presetRoom(cc) }
+                    var AGT = { en: "This room is for adults only (18+). Are you 18 or older?", tr: "Bu oda yalnızca yetişkinler içindir (18+). 18 yaşında veya daha büyük müsün?", es: "Esta sala es solo para adultos (18+). ¿Tienes 18 años o más?", de: "Dieser Raum ist nur für Erwachsene (18+). Bist du 18 oder älter?" };
+                    function join() { var cc = cleanCode(cdI.value); cdI.value = cc; if (cc.length !== 6) { cdI.classList.remove("shake"); void cdI.offsetWidth; cdI.classList.add("shake"); cdI.focus(); return } var p = PR[cc]; if (p && p[3] && !confirm((AGT[lg.value] || AGT.en))) return; enterRoom(cc); if (p) presetRoom(cc) }
                     $("#jn").onclick = join; cdI.addEventListener("keydown", function (e) { if (e.key === "Enter") join() });
                     function copy() { try { navigator.clipboard.writeText(code).then(function () { var s = $("#cpb span"); s.textContent = T.ok; setTimeout(function () { s.textContent = T.cp }, 1600) }) } catch (_) { } }
                     $("#cpb").onclick = copy; $("#shb").onclick = function () { if (navigator.share) { navigator.share({ title: "MoviesParty", text: code, url: roomLink(code) }).catch(function () { }) } else { try { navigator.clipboard.writeText(roomLink(code)); msg2.textContent = T.ok; setTimeout(function () { msg2.textContent = "" }, 1600) } catch (_) { } } };
                     $("#sgo").onclick = function () { enterRoom(code) };
                     var DL = { win: "https://www.dropbox.com/scl/fi/esj1jnicgf8u19b1ksszv/MoviesParty.exe?rlkey=biozu7v17krvth20fpq6bwztf&st=kuic761s&dl=1", mac: "" }, rmTimer = 0; /* put your installer links here: DL.win="https://…/MoviesParty.exe"; DL.mac="https://…/MoviesParty.dmg"; */
                     function setDL(b, name, url) { if (!b) return; b.textContent = name + (url ? "" : " · " + T.soon); b.disabled = !url; b.onclick = url ? function () { location.href = url } : null }
-                    function refreshDL() { setDL($("#pwin"), "Windows", DL.win); setDL($("#pmac"), "macOS", DL.mac); setDL($("#dwin"), "Windows", DL.win); setDL($("#dmac"), "macOS", DL.mac) }
+                    function refreshDL() { setDL($("#dwin"), "Windows", DL.win); setDL($("#dmac"), "macOS", DL.mac) }
                     refreshDL(); lg.addEventListener("change", refreshDL);
                     var LDT = { en: "Loading…", tr: "Yükleniyor…", es: "Cargando…", de: "Wird geladen…", fr: "Chargement…", pt: "Carregando…", it: "Caricamento…", ru: "Загрузка…", ar: "جارٍ التحميل…", ja: "読み込み中…", ko: "로딩 중…" };
                     var TMDB_KEY = "f1597bbc1b88e545149371545c1e86a9";/* TMDB v3 API key veya v4 read access token buraya */
@@ -5251,12 +4920,11 @@
                     function genCode() { var a = new Uint8Array(6), o = ""; try { crypto.getRandomValues(a) } catch (_) { for (var i = 0; i < 6; i++)a[i] = Math.random() * 256 | 0 } for (var j = 0; j < 6; j++)o += CODE_CH.charAt(a[j] % 32); return PR[o] ? genCode() : o }
                     function cleanCode(v) { return String(v || "").toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 6) }
                     /* ---- preset rooms ---- */
-                    var PR = { K7M2N9: ["Netflix", "#E50914", "#4A060B"], R4T8V1: ["Disney+", "#2A5BFF", "#0A1F66"], X3Y6Z2: ["Prime Video", "#00A8E1", "#043A52"], A9B5C7: ["Hulu", "#1CE783", "#0A5A33"], D1E4F8: ["HBO Max", "#8B3DFF", "#2B0A66"], G2H6J3: ["Anime", "#FF6FA8", "#5A1236"], L5P0Q9: ["Custom Video Link", "#FFB020", "#5A3A04"], UHKL8H: ["NSFW 18+", "#FF2D55", "#3A0614", 1] }, prCur = null, ageOk = 0;
-                    var PRT = { en: ["This is the %s room", "Rooms run in the MoviesParty app. You need to download the app to join. Install it, open it and enter this code.", "18+ only. This room may contain adult content. Confirm that you are 18 or older to continue.", "I am 18 or older"], tr: ["Bu oda %s odası", "Odalar MoviesParty uygulamasında çalışır. Katılmak için uygulamayı indirmen gerekiyor. Kur, aç ve bu kodu gir.", "Sadece 18+. Bu oda yetişkin içerik barındırabilir. Devam etmek için 18 yaşından büyük olduğunu onayla.", "18 yaşından büyüğüm"], es: ["Esta es la sala de %s", "Las salas funcionan en la app de MoviesParty. Necesitas descargar la app para unirte. Instálala, ábrela e ingresa este código.", "Solo mayores de 18. Esta sala puede contener contenido para adultos. Confirma que tienes 18 años o más para continuar.", "Tengo 18 años o más"], de: ["Das ist der %s-Raum", "Räume laufen in der MoviesParty-App. Zum Beitreten musst du die App herunterladen. Installieren, öffnen und diesen Code eingeben.", "Nur ab 18. Dieser Raum kann Inhalte für Erwachsene enthalten. Bestätige, dass du mindestens 18 bist, um fortzufahren.", "Ich bin mindestens 18"] };
+                    var PR = { K7M2N9: ["Netflix", "#E50914", "#4A060B"], R4T8V1: ["Disney+", "#2A5BFF", "#0A1F66"], X3Y6Z2: ["Prime Video", "#00A8E1", "#043A52"], A9B5C7: ["Hulu", "#1CE783", "#0A5A33"], D1E4F8: ["HBO Max", "#8B3DFF", "#2B0A66"], G2H6J3: ["Anime", "#FF6FA8", "#5A1236"], L5P0Q9: ["Custom Video Link", "#FFB020", "#5A3A04"], UHKL8H: ["NSFW 18+", "#D81B60", "#2A0614", 1] }, prCur = null;
+                    var PRT = { en: ["This is the %s room", "Rooms run in the MoviesParty app. You need to download the app to join. Install it, open it and enter this code."], tr: ["Bu oda %s odası", "Odalar MoviesParty uygulamasında çalışır. Katılmak için uygulamayı indirmen gerekiyor. Kur, aç ve bu kodu gir."], es: ["Esta es la sala de %s", "Las salas funcionan en la app de MoviesParty. Necesitas descargar la app para unirte. Instálala, ábrela e ingresa este código."], de: ["Das ist der %s-Raum", "Räume laufen in der MoviesParty-App. Zum Beitreten musst du die App herunterladen. Installieren, öffnen und diesen Code eingeben."] };
                     function prt(i) { return (PRT[lg.value] || PRT.en)[i] }
-                    function prApply() { if (!prCur) return; var p = PR[prCur]; $("#dlpt").textContent = (p[3] ? "🔞 " : "") + prt(0).replace("%s", p[0]); $("#dlp p[data-i=\"dld\"]").textContent = prt(1) }
+                    function prApply() { if (!prCur) return; var p = PR[prCur]; $("#dlpt").textContent = prt(0).replace("%s", p[0]); $("#dlp p[data-i=\"dld\"]").textContent = prt(1) }
                     function presetRoom(cc) { var p = PR[cc]; prCur = cc; film = p[0]; filmImg = ""; filmBg = "linear-gradient(160deg," + p[1] + "," + p[2] + ")"; closePicker(); mkCover(); $("#rpick").textContent = "🎬 " + p[0]; clearTimeout(rmTimer); showDL(); prApply() }
-                    function ageGate() { msg.className = ""; msg.textContent = ""; var t = document.createElement("span"), b = document.createElement("button"); t.textContent = "🔞 " + prt(2); b.type = "button"; b.className = "btn"; b.style.cssText = "display:block;margin:.7rem auto 0"; b.textContent = prt(3); b.onclick = function () { ageOk = 1; msg.textContent = ""; join() }; msg.appendChild(t); msg.appendChild(b) }
                     lg.addEventListener("change", prApply);
                     function urlCode() { var m = (location.pathname + location.hash).match(RRE); if (!m) return ""; try { return cleanCode(decodeURIComponent(m[1] || m[2])) } catch (_) { return "" } }
                     function baseP() { return location.pathname.replace(/\/room\/.*$/, "/").replace(/[^\/]*$/, "") }
@@ -5284,7 +4952,7 @@
                         $("#room").hidden = false; $("#dlp").hidden = true; dlLock(0); document.body.classList.add("inroom", "on");
                         closePicker(); mkCover(); $("#rpick").textContent = "🎬 " + pkt(0); if (film) armDL(); else { clearTimeout(rmTimer); openPicker() }
                     }
-                    function leaveRoom(nu) { ageOk = 0; if (prCur) { prCur = null; apply(lg.value) } if (nu !== 1) unURL(); stopMedia(); dlLock(0); clearTimeout(rmTimer); closePicker(); dl.on = 0; dlClear(); cancelAnimationFrame(dl.raf); $("#room").hidden = true; $("#dlp").hidden = true; document.body.classList.remove("inroom", "on") }
+                    function leaveRoom(nu) { if (prCur) { prCur = null; apply(lg.value) } if (nu !== 1) unURL(); stopMedia(); dlLock(0); clearTimeout(rmTimer); closePicker(); dl.on = 0; dlClear(); cancelAnimationFrame(dl.raf); $("#room").hidden = true; $("#dlp").hidden = true; document.body.classList.remove("inroom", "on") }
                     $("#rlv").onclick = function () { leaveRoom() }; $("#rpick").onclick = openPicker;
                     addEventListener("keydown", function (e) { if (e.key === "Escape" && !$("#room").hidden) leaveRoom() });
                     $("#c1").onclick = $("#hc").onclick = function () { openD(0) }; $("#c2").onclick = function () { openD(1) };
