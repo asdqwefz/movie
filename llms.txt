@@ -2,12 +2,13 @@
 
 > Free watch party for movies with friends. Create a room, share the code and press play together, with synced playback, voice, video and chat.
 
-MoviesParty is a watch party service: create a room, share the room code, and everyone presses play at the same time. It does not host movies; each person plays their own copy or subscription and MoviesParty syncs the playhead.
+MoviesParty is a watch party service: create a room, share the room code, and everyone presses play at the same time. Everyone watches together in the app, in sync.
 
 ## Facts
 - Free plan: 1080p, public rooms, chat. Premium: 4K Ultra HD, private rooms, priority sync (pricing not announced).
+- Movies are provided under license from their original providers.
 - Languages: English, Turkish, Spanish, German.
-- Windows app today (macOS coming soon). Rooms run in the app, not in the browser. Does not host or stream movies.
+- Windows app today (macOS coming soon). Rooms run in the app, not in the browser. 
 - Contact: contact@moviesparty.com
 
 ## Pages
@@ -17,6 +18,12 @@ MoviesParty is a watch party service: create a room, share the room code, and ev
 - [Deutsch](https://moviesparty.com/de/): Gemeinsam Filme schauen
 - [How to watch movies together online](https://moviesparty.com/watch-movies-together-online/): guide
 - [Teleparty alternative](https://moviesparty.com/teleparty-alternative/): comparison
+- [Watch2Gether alternative](https://moviesparty.com/watch2gether-alternative/): comparison
+- [WatchParty.me alternative](https://moviesparty.com/watchparty-me-alternative/): comparison
+- [Watch party without an extension](https://moviesparty.com/watch-party-without-extension/): guide
+- [Watch party app for Windows](https://moviesparty.com/watch-party-app-for-windows/): guide
+- [Teleparty not working](https://moviesparty.com/teleparty-not-working/): guide
+- [Watch party with voice chat](https://moviesparty.com/watch-party-with-voice-chat/): guide
 - [How to host a watch party](https://moviesparty.com/how-to-host-a-watch-party/): guide
 - [Long-distance movie night ideas](https://moviesparty.com/long-distance-movie-night-ideas/): guide
 - [How to sync movies with friends](https://moviesparty.com/how-to-sync-movies-with-friends/): guide

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://moviesparty.com/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/"/>
@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/tr/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/"/>
@@ -24,7 +24,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/es/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/"/>
@@ -35,7 +35,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/de/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/"/>
@@ -46,19 +46,55 @@
   </url>
   <url>
     <loc>https://moviesparty.com/watch-movies-together-online/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://moviesparty.com/teleparty-alternative/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://moviesparty.com/watch2gether-alternative/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://moviesparty.com/watchparty-me-alternative/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://moviesparty.com/watch-party-without-extension/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://moviesparty.com/watch-party-app-for-windows/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://moviesparty.com/teleparty-not-working/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://moviesparty.com/watch-party-with-voice-chat/</loc>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://moviesparty.com/how-to-host-a-watch-party/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/how-to-host-a-watch-party/"/>
@@ -69,7 +105,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/long-distance-movie-night-ideas/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/long-distance-movie-night-ideas/"/>
@@ -80,7 +116,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/how-to-sync-movies-with-friends/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/how-to-sync-movies-with-friends/"/>
@@ -91,31 +127,31 @@
   </url>
   <url>
     <loc>https://moviesparty.com/about/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://moviesparty.com/contact/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://moviesparty.com/privacy/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://moviesparty.com/terms/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://moviesparty.com/tr/watch-party-nasil-yapilir/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/how-to-host-a-watch-party/"/>
@@ -126,7 +162,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/es/como-organizar-una-watch-party/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/how-to-host-a-watch-party/"/>
@@ -137,7 +173,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/de/watch-party-veranstalten/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/how-to-host-a-watch-party/"/>
@@ -148,7 +184,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/tr/uzak-mesafe-film-gecesi-fikirleri/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/long-distance-movie-night-ideas/"/>
@@ -159,7 +195,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/es/ideas-noche-de-cine-a-distancia/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/long-distance-movie-night-ideas/"/>
@@ -170,7 +206,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/de/filmabend-auf-distanz-ideen/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/long-distance-movie-night-ideas/"/>
@@ -181,7 +217,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/tr/arkadaslarla-filmi-senkronize-etme/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/how-to-sync-movies-with-friends/"/>
@@ -192,7 +228,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/es/como-sincronizar-peliculas-con-amigos/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/how-to-sync-movies-with-friends/"/>
@@ -203,7 +239,7 @@
   </url>
   <url>
     <loc>https://moviesparty.com/de/filme-mit-freunden-synchronisieren/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://moviesparty.com/how-to-sync-movies-with-friends/"/>
@@ -214,19 +250,19 @@
   </url>
   <url>
     <loc>https://moviesparty.com/free-watch-party-website/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://moviesparty.com/watch-party-vs-screen-sharing/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://moviesparty.com/watch-party-troubleshooting/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -1,11 +1,9 @@
 # MoviesParty: full text of English guides
 
-> MoviesParty is a free watch party app for Windows: create a room, share the code and press play together, with synced playback, voice, video and chat. It does not host movies.
+> MoviesParty is a free watch party app for Windows: create a room, share the code and press play together, with synced playback, voice, video and chat.
 
-Last updated: 2026-11-18
+Last updated: 2026-11-22
 Contact: contact@moviesparty.com
-
-
 
 ---
 Source: https://moviesparty.com/watch-movies-together-online/
@@ -15,80 +13,104 @@ Home › Watch movies together online
 ## How to watch movies together online
 
 You do not need to be on the same couch to share a movie night. Here are the main ways to watch movies together online, what to check before you pick one, and how to host a session with MoviesParty.
-Last updated: November 18, 2026
-Quick answer: Use a watch party website like MoviesParty: create a room, share the code and everyone presses play together, each with their own copy or subscription.
+
+Last updated: November 21, 2026
+
+Quick answer: Use a watch party like MoviesParty: create a room, share the code and everyone presses play together.
+
 
 ## Three ways to watch movies together online
+
 
 ## 1. Watch parties built into streaming services
 
 Some streaming services include their own group viewing, for example Disney+ GroupWatch, Hulu Watch Party and Amazon Prime Video Watch Party. They are convenient, but each one only covers that service’s catalog and usually needs everyone to have an account with it. Features and limits change, so check the service’s help page before you plan a night.
 
+
 ## 2. Browser extensions
 
 Extensions such as Teleparty (formerly Netflix Party) keep play, pause and seeking in sync on supported streaming websites and add a group chat. Everyone installs the extension and, in most cases, needs their own subscription to the streaming service.
 
-## 3. Watch party app (Windows)s and apps
 
-Watch party sites like MoviesParty are built around the shared session itself. You create a room, send a code and press play together, with voice, video and text chat beside the player. MoviesParty does not host movies: each person plays their own copy or their own subscription, and the site syncs the playhead so everyone sees the same frame in the same second.
+## 3. Watch party websites and apps
+
+Watch party apps and sites like MoviesParty are built around the shared session itself. You create a room, send a code and press play together, with voice, video and text chat beside the player.
+
 
 ## What to check before you choose a tool
 
-Subscriptions: does everyone need a paid account, and with which service?
-
-Sync: does the tool put everyone back on the same frame after a pause or a seek?
-
-Talking: can you use voice, video and text chat in the same window as the player?
-
-Devices: does it work in the browsers and on the phones your friends use?
-
-Price: is the basic version free, and what do paid plans add?
+- Subscriptions: does everyone need a paid account, and with which service?
+- Sync: does the tool put everyone back on the same frame after a pause or a seek?
+- Talking: can you use voice, video and text chat in the same window as the player?
+- Devices: does it work in the browsers and on the phones your friends use?
+- Price: is the basic version free, and what do paid plans add?
 
 ## Host a movie night with MoviesParty in three steps
 
-Create a room. Pick a name and press the button. Your room is ready in a second.
-
-Send the code. Share the room code with your friends. They type it in the app and walk right in.
-
-Press play together. When everyone is in, the host starts the countdown and everyone begins on the same frame.
-
+- Create a room. Pick a name and press the button. Your room is ready in a second.
+- Send the code. Share the room code with your friends. They type it in the app and walk right in.
+- Press play together. When everyone is in, the host starts the countdown and everyone begins on the same frame.
 The free plan includes 1080p, public rooms and chat. Premium adds 4K Ultra HD, private rooms and priority sync; pricing has not been announced yet.
 
-Ready for movie night? Create a room, send the code and press play together.
-Create a room
 
 ## Tips for a smoother movie night
 
-Make sure everyone is watching the same version of the film. Different cuts or releases can drift out of sync.
+- Use a stable connection and close other apps that use a lot of bandwidth.
+- Agree on a start time and have everyone join a few minutes early.
+- Wear headphones during voice chat so the movie audio does not echo into the call.
 
-Use a stable connection and close other apps that use a lot of bandwidth.
+## Which method is right for your group?
 
-Agree on a start time and have everyone join a few minutes early.
 
-Wear headphones during voice chat so the movie audio does not echo into the call.
+## Everyone uses the same streaming service
+
+The service’s built-in group viewing or a browser extension is the quickest path, because nobody needs to leave the site they already use.
+
+
+## Friends use different services
+
+A watch party app is the better fit. Everyone watches in the same room without needing to be on the same website.
+
+
+## You want voice and video in the same window
+
+Choose a tool that includes them, so you do not have to run a separate call next to the movie. MoviesParty has voice, video and text chat beside the player.
+
+
+## Common mistakes to avoid
+
+- Picking a tool without checking that everyone’s device and operating system is supported. MoviesParty has a Windows app today, with macOS on the way.
+- Assuming one person’s subscription covers the whole group.
+- Starting the movie before everyone has joined and tested their audio.
+If something goes wrong, the troubleshooting guide covers echo, microphone and sync problems, and the free watch party website guide explains what the free plan includes.
+
 
 ## More guides
-Teleparty alternative
-How to host a watch party
-Long-distance movie night ideas
-How to sync movies with friends
-Free watch party website
-Watch party vs screen sharing
-Watch party troubleshooting
+
+- How to host a watch party
+- Long-distance movie night ideas
+- How to sync movies with friends
+- Free watch party website
+- Watch party vs screen sharing
+- Watch party troubleshooting
 
 ## Frequently asked questions
+
 
 ## Can I watch movies together online for free?
 
 Yes. MoviesParty’s free plan includes 1080p, public rooms and chat, and many other watch party tools have free tiers too.
 
+
 ## Does everyone need the same streaming subscription?
 
-It depends on the tool. Built-in watch parties and browser extensions usually require each person to have their own account. With MoviesParty, each person plays their own copy or their own subscription and the site only syncs the playback position.
+It depends on the tool. Built-in watch parties and browser extensions usually require each person to have their own account. With MoviesParty, you create a room and everyone watches together in the app.
+
 
 ## Do we need to install anything?
 
 Yes. Everyone installs the MoviesParty Windows app (macOS is on the way) and joins with the room code. Windows and macOS apps are on the way.
+
 
 ---
 Source: https://moviesparty.com/teleparty-alternative/
@@ -98,45 +120,453 @@ Home › Teleparty alternative
 ## A Teleparty alternative for watching movies together
 
 Teleparty is one of the best-known ways to watch together. If you would rather use a dedicated watch party website with room codes, here is how MoviesParty compares and which one fits which kind of movie night.
-Last updated: November 18, 2026
-Quick answer: MoviesParty is a Windows-app alternative with room codes, voice, video and chat, where each person plays their own copy and the site syncs the playhead.
+
+Last updated: November 21, 2026
+
+Quick answer: MoviesParty is a Windows-app alternative with room codes, voice, video and chat, where you pick a movie in the room and everyone watches it together in the app.
+
 
 ## How the two differ
 
- |  |  | Teleparty | MoviesParty
-
- | Format | Browser extension | Watch party app (Windows)
-
- | Where you watch | On supported streaming websites, such as Netflix, Disney+, Hulu and HBO Max | In the MoviesParty room; each person plays their own copy or subscription
-
- | What everyone needs | The extension, plus their own streaming subscription | The Windows app and the room code
-
- | How friends join | Open the shared party link | Enter the room code in the app
-
- | Chat | Group chat beside the video | Voice, video and text chat beside the player
-
+ | Teleparty | MoviesParty
+Format | Browser extension | Watch party app (Windows)
+Where you watch | On supported streaming websites, such as Netflix, Disney+, Hulu and HBO Max | Inside the MoviesParty app
+What everyone needs | The extension, plus their own streaming subscription | The Windows app and the room code
+How friends join | Open the shared party link | Enter the room code in the app
+Chat | Group chat beside the video | Voice, video and text chat beside the player
 Teleparty details are based on its public Chrome Web Store description and may have changed; check its own site for current information.
+
 
 ## Which one should you choose?
 
 If your whole group already has the same streaming subscription and you want to watch inside that service’s own site, a browser extension like Teleparty is built for exactly that.
 
-If you prefer a dedicated place to gather, with a room code, one shared countdown and voice, video and chat in the same window, MoviesParty is designed for that. It does not host movies. Everyone plays their own copy or their own subscription, and MoviesParty syncs the playhead so you all see the same frame.
+If you prefer a dedicated place to gather, with a room code, one shared countdown and voice, video and chat in the same window, MoviesParty is designed for that. Pick a movie in the room and everyone watches it together in the app.
 
-Ready for movie night? Create a room, send the code and press play together.
-Create a room
+
+## What to look for in a Teleparty alternative
+
+People usually look for an alternative for one of a few reasons. Check which of these matter to your group before you switch.
+
+- Where it runs. Teleparty is a browser extension that works on supported streaming websites. MoviesParty is a Windows app (macOS is on the way) and rooms run inside the app, not in the browser.
+- What everyone needs. With an extension, everyone usually needs the extension and an account on the same streaming service. With MoviesParty everyone needs the app and the room code.
+- How friends join. An extension typically uses a shared party link. MoviesParty uses a short room code that you can send in any chat.
+- Talking. Check whether voice and video are built in or whether you need a separate call. MoviesParty puts voice, video and text chat beside the player.
+- Permissions and privacy. Extensions need permission to run on the pages they support. Read the permission list and the privacy policy of any tool you install.
+- Price. MoviesParty’s free plan includes 1080p, public rooms and chat. Premium adds 4K Ultra HD, private rooms and priority sync, and pricing has not been announced.
+
+## Which option suits which group
+
+
+## Everyone has the same streaming subscription
+
+If your friends all use one service and are happy watching on its website, a browser extension is built for exactly that and needs very little setup.
+
+
+## Friends use different services and devices
+
+If your group does not share one streaming service, a watch party app is easier, because everyone watches inside the same room. Nobody has to share a screen or use the same website.
+
+
+## You want one place to gather
+
+If you want a room code, a shared countdown and voice, video and chat in a single window, a dedicated watch party app keeps everything together instead of splitting it across tabs and calls.
+
+
+## Switching to MoviesParty: what changes
+
+- Install the MoviesParty app on Windows. Everyone in the room needs it.
+- Create a room and send the code to your friends.
+- Everyone joins with the code and the group picks a movie.
+- When everyone is in, the host starts the countdown and you press play together.
+Our guide to hosting a watch party covers the same steps in more detail, and how to sync movies with friends explains what to do if someone drifts out of sync.
+
+
+## Things to know before you switch
+
+- The Windows app is available today. macOS is on the way, so a group with Mac users cannot all join yet.
+- Rooms run in the app, not in the browser, and everyone in the room needs the app.
+- You do not have to choose one tool forever. Many groups use whichever fits that night’s movie.
 
 ## Frequently asked questions
+
 
 ## Is MoviesParty free?
 
 Yes. The free plan includes 1080p, public rooms and chat. Premium adds 4K Ultra HD, private rooms and priority sync; pricing has not been announced yet.
 
+
 ## How do I start a watch party?
 
 Create a room, send the code to your friends and press play together. Our guide to watching movies together online walks through it step by step.
 
-Teleparty and Netflix are trademarks of their respective owners. MoviesParty is not affiliated with or endorsed by them.
+
+---
+Source: https://moviesparty.com/watch2gether-alternative/
+
+Home › Watch2Gether alternative
+
+## A Watch2Gether alternative for movie nights
+
+Watch2Gether (w2g.tv) is a long-running website for watching videos together. If you want to watch movies in a dedicated app with a room code, here is how MoviesParty compares.
+
+Last updated: November 21, 2026
+
+Quick answer: Watch2Gether runs in the browser and is built around sharing videos from web sources into a room. MoviesParty is a Windows app where you pick a movie in the room and everyone watches it together in the app.
+
+
+## How the two differ
+
+ | Watch2Gether | MoviesParty
+Format | Website in the browser, with an optional browser extension for syncing some streaming sites | Watch party app (Windows; macOS on the way)
+How friends join | Open a shared room link | Enter a room code in the app
+What you watch | Videos from web sources such as YouTube and Vimeo, plus streaming sites through the extension | Movies you pick in the room and watch together in the app
+Talking | Built-in chat, with voice and video options | Voice, video and text chat beside the player
+Price | Free, with paid plans | Free plan with 1080p, public rooms and chat; Premium pricing not announced
+Watch2Gether details are based on public information such as its extension listings and independent reviews, and may have changed. Check w2g.tv for current features and pricing.
+
+
+## When Watch2Gether is the better choice
+
+- Your group mostly watches YouTube or other web videos and wants to start from a link with nothing to install.
+- You want a room that lives in the browser on any computer, including ones you do not control.
+- You like building a shared playlist of short videos.
+
+## When MoviesParty is the better choice
+
+- You want to watch a full movie together in one app.
+- You want one window with a room code, a shared countdown, and voice, video and chat.
+- You would rather install one app than rely on a browser extension that needs permission to read pages.
+
+## Things to know before you switch
+
+- MoviesParty is a Windows app today, and everyone in the room needs it. macOS is on the way.
+- Rooms run in the app, not in the browser.
+
+## Frequently asked questions
+
+
+## Is MoviesParty a Watch2Gether alternative?
+
+Yes, if you want a dedicated watch party app with room codes for movie nights. If you mostly share YouTube videos from the browser, Watch2Gether is built for that.
+
+
+## Does MoviesParty work in the browser like Watch2Gether?
+
+No. Rooms run in the MoviesParty Windows app, and everyone in the room needs it. macOS is on the way.
+
+
+## Is MoviesParty free?
+
+Yes. The free plan includes 1080p, public rooms and chat. Premium adds 4K Ultra HD, private rooms and priority sync; pricing has not been announced yet.
+
+
+---
+Source: https://moviesparty.com/watchparty-me-alternative/
+
+Home › WatchParty.me alternative
+
+## A WatchParty.me alternative for movie nights
+
+WatchParty.me is a website for watching videos together with screen sharing, a shared virtual browser and chat. Here is how MoviesParty differs for full movie nights.
+
+Last updated: November 21, 2026
+
+Quick answer: WatchParty.me works in the browser and offers several ways to share video, including screen sharing and a cloud browser. MoviesParty is a Windows app where you pick a movie in the room and everyone watches it together in the app.
+
+
+## How the two differ
+
+ | WatchParty.me | MoviesParty
+Format | Website in the browser | Watch party app (Windows; macOS on the way)
+Ways to share video | Screen sharing, a shared cloud browser, your own file, video links and YouTube | Movies you watch together in the app
+Talking | Text chat and video chat | Voice, video and text chat beside the player
+Room control | Room permissions for the host | Room code; private rooms with Premium
+Price | Free, with a paid tier; the project is also open source | Free plan with 1080p, public rooms and chat; Premium pricing not announced
+WatchParty.me details are based on public information such as its open-source project page and independent reviews, and may have changed. Check its own site for current features and pricing.
+
+
+## When WatchParty.me is the better choice
+
+- You want to share a browser tab or a whole cloud browser with a group, not only a movie.
+- You need a room that starts instantly in the browser with nothing to install.
+- You like the idea of an open-source tool you can self-host.
+
+## When MoviesParty is the better choice
+
+- You want a dedicated app for movie nights instead of a shared browser.
+- You want each person to see the film at their own quality instead of watching someone else’s shared screen. In our watch party vs screen sharing guide we explain why.
+- You want a room code and a shared countdown in one app, with voice, video and chat already built in.
+
+## Things to know before you switch
+
+- MoviesParty is a Windows app today, and everyone in the room needs it. macOS is on the way.
+- MoviesParty does not use screen sharing, so picture quality does not depend on one person’s upload speed.
+More comparisons: Watch2Gether alternative and Teleparty alternative.
+
+
+## Frequently asked questions
+
+
+## Is MoviesParty a WatchParty.me alternative?
+
+Yes, for movie nights where you want synced playback with voice, video and chat in one app. If you want screen sharing or a shared cloud browser, WatchParty.me covers that.
+
+
+## Does MoviesParty use screen sharing?
+
+No. MoviesParty does not use screen sharing, so picture quality does not depend on one person’s upload speed.
+
+
+## Is MoviesParty free?
+
+Yes. The free plan includes 1080p, public rooms and chat. Premium adds 4K Ultra HD, private rooms and priority sync; pricing has not been announced yet.
+
+
+---
+Source: https://moviesparty.com/watch-party-without-extension/
+
+Home › Watch party without an extension
+
+## How to host a watch party without a browser extension
+
+Browser extensions are the most common way to sync a movie, but not everyone wants to install one. Here are four ways to watch together without one, and what each costs you.
+
+Last updated: November 21, 2026
+
+Quick answer: Use a built-in watch party from your streaming service, a browser-based site, screen sharing, or a dedicated app such as MoviesParty, where everyone installs one app and joins with a room code.
+
+
+## Why people avoid extensions
+
+An extension needs permission to read and change the pages you visit, it can break when a streaming site updates, and it has to be installed in a supported browser on every friend’s computer. If you manage a school, work or shared computer, installing one may not be allowed at all.
+
+
+## Four ways to watch together without an extension
+
+Option | How it works | Main trade-off
+Built-in watch party | Some streaming services include group viewing, such as Disney+ GroupWatch, Hulu Watch Party and Amazon Prime Video Watch Party | Covers only that service’s catalog and usually needs everyone to have an account
+Browser-based watch site | Sites such as Watch2Gether or WatchParty.me run in the browser and use a shared room link | Best for web video such as YouTube; some streaming services still need an extension or screen sharing
+Screen sharing | One person plays the movie and shares their screen on a call | Picture and sound depend on the host’s connection, and protected video can show a black screen
+Dedicated app | Everyone installs one app and joins with a room code | Everyone has to install the app first
+Features of other services change often, so check their own pages before you plan a night.
+
+
+## Where MoviesParty fits
+
+MoviesParty is the last option in that table. It is a Windows app (macOS is on the way), so nothing is installed into your browser and no extension needs to read your pages. You create a room, send the code, and everyone watches together in the app, with voice, video and text chat beside the player.
+
+
+## How to choose
+
+- Everyone has the same streaming service: use its built-in watch party if it has one.
+- Your group mostly watches YouTube or web video: a browser-based site is the quickest.
+- Only one person has the movie: screen sharing, with the quality limits described in our watch party vs screen sharing guide.
+- Everyone is in different places and you want one room with a code: a dedicated app.
+For the full walkthrough, see how to host a watch party.
+
+
+## Frequently asked questions
+
+
+## Can I watch Netflix together without an extension?
+
+Netflix does not have a built-in group viewing feature, so most tools use an extension or screen sharing for it. A dedicated app avoids both by syncing each person’s own playback.
+
+
+## Is a watch party without an extension free?
+
+It can be. MoviesParty’s free plan includes 1080p, public rooms and chat, and other tools have their own free tiers.
+
+
+## Is MoviesParty free?
+
+Yes. The free plan includes 1080p, public rooms and chat. Premium adds 4K Ultra HD, private rooms and priority sync; pricing has not been announced yet.
+
+
+---
+Source: https://moviesparty.com/watch-party-app-for-windows/
+
+Home › Watch party app for Windows
+
+## A watch party app for Windows
+
+A desktop app keeps the room, the countdown and the chat in one window. Here is what the MoviesParty Windows app does and how to get your friends in.
+
+Last updated: November 21, 2026
+
+Quick answer: MoviesParty is a free watch party app for Windows. Install it, create a room, send the code, and everyone presses play together with voice, video and chat beside the player.
+
+
+## What the app does
+
+- Room codes. You create a room and share a short code. Friends enter it in the app and join.
+- Synced playback. The host starts a countdown and everyone begins on the same frame. Pause and seek stay in sync.
+- Voice, video and chat. They sit beside the player, so you do not need a separate call.
+- Movies in the app. Pick a movie in the room and everyone watches it together, right there in the app.
+
+## Get started in four steps
+
+- Download the Windows app from the MoviesParty home page and install it.
+- Create a room and pick whether it is private. Private rooms come with Premium.
+- Send the room code to your friends. They install the app and enter the code.
+- When everyone is in, the host starts the countdown and you press play together.
+
+## Free and Premium
+
+The free plan includes 1080p, public rooms and chat. Premium adds 4K Ultra HD, private rooms and priority sync. Pricing for Premium has not been announced.
+
+
+## What about Mac, phone and browser?
+
+The Windows app is available today and macOS is on the way. Rooms run in the app, not in the browser, and everyone in the room needs the app. If your group uses different devices, check that each person can install it before you plan the night.
+
+
+## Tips for a smooth night
+
+- Have everyone install the app and test their microphone before movie night.
+- Use headphones to stop the film from echoing into voice chat.
+If something goes wrong, the troubleshooting guide covers echo, microphone and sync problems.
+
+
+## Frequently asked questions
+
+
+## Is there a watch party app for Windows?
+
+Yes. MoviesParty is a watch party app for Windows with room codes, synced playback, voice, video and chat. macOS is on the way.
+
+
+## Do my friends need the app too?
+
+Yes. Everyone in the room needs the MoviesParty app and the room code.
+
+
+## Is MoviesParty free?
+
+Yes. The free plan includes 1080p, public rooms and chat. Premium adds 4K Ultra HD, private rooms and priority sync; pricing has not been announced yet.
+
+
+---
+Source: https://moviesparty.com/teleparty-not-working/
+
+Home › Teleparty not working
+
+## Teleparty not working: fixes to try first
+
+Teleparty is a browser extension, so most problems come from the browser, another extension or the streaming site. Work through these checks in order.
+
+Last updated: November 21, 2026
+
+Quick answer: Update the extension and browser, reload the page, disable other extensions, make sure everyone is on the same streaming account type and title, and try again in a clean browser profile.
+
+
+## Check the basics
+
+- Reload and rejoin. Everyone should refresh the streaming page and open the party link again.
+- Update the extension and the browser. An out-of-date extension can break when a streaming site changes.
+- Check that the extension is switched on in your browser’s extension menu and allowed to run on the streaming site.
+- Everyone needs access to the same title. A movie may be available in one country or on one plan and not another.
+- Be signed in to the same streaming service, with a profile that can play the title.
+
+## Other extensions and settings
+
+- Turn off ad blockers, VPNs and other extensions one by one to see whether one of them interferes.
+- Try a fresh browser profile or a private window with only Teleparty enabled.
+- Clear the cache and cookies for the streaming site.
+- Check that hardware acceleration and your browser version are supported by the streaming site.
+
+## Out of sync or buffering
+
+- Use a stable connection and close big downloads.
+- Pause, make sure everyone is at the same timestamp and press play again.
+- Lower the video quality one step on the streaming site.
+Details about Teleparty’s features and supported sites change. For anything that is specific to it, check the extension’s own listing and support page.
+
+
+## If it keeps failing
+
+If extension problems keep coming back, you can switch to a tool that does not rely on one. MoviesParty is a Windows app: everyone installs it, joins with a room code and watches together in the app. See the Teleparty alternative comparison or the watch party without an extension guide.
+
+
+## Frequently asked questions
+
+
+## Why is Teleparty not syncing?
+
+The common causes are an out-of-date extension, another extension interfering, different movie versions or a poor connection. Reload, update and test with other extensions turned off.
+
+
+## Do I need the same subscription as my friends?
+
+Each person needs access to the same title on the streaming service. Availability can differ by country or plan.
+
+
+## Is there a watch party option that does not use an extension?
+
+Yes. MoviesParty is a Windows app with room codes, so there is nothing to install in the browser. Everyone in the room needs the app.
+
+
+---
+Source: https://moviesparty.com/watch-party-with-voice-chat/
+
+Home › Watch party with voice chat
+
+## How to run a watch party with voice chat
+
+Talking during the movie is half the fun of watching together. Here is how to do it without echo, and how to choose between built-in chat and a separate call.
+
+Last updated: November 21, 2026
+
+Quick answer: Use a watch party tool with voice and video built in, ask everyone to wear headphones, and mute when you are not talking. MoviesParty puts voice, video and text chat beside the player.
+
+
+## Built-in voice chat or a separate call?
+
+ | Built into the watch party | Separate call (Discord, Zoom, etc.)
+Setup | Join the room and you are in the call | Everyone joins two things
+Windows to manage | One | Two or more
+Flexibility | Limited to what the tool offers | Use any call tool you like
+If your group already lives on a call, keep using it. If you want everything in one place, pick a tool with voice built in.
+
+
+## Stop echo before it starts
+
+- Headphones for everyone. Echo happens when movie audio from speakers reaches a microphone.
+- Mute when you are not talking. It keeps room noise and keyboard sounds out of the call.
+- Lower the movie volume a notch so voices stay clear on top of it.
+
+## Set up voice and video in MoviesParty
+
+- Allow microphone and camera access when Windows or the app asks.
+- Join the room with the code. Voice, video and text chat are beside the player.
+- Test your microphone before the movie starts, not during the opening scene.
+If your microphone or camera does not work, see the troubleshooting guide.
+
+
+## Etiquette for movie night
+
+- Agree up front whether commentary is welcome or whether the group wants quiet during key scenes.
+- Use text chat for quick reactions if someone prefers not to talk.
+- Keep the camera optional.
+
+## Frequently asked questions
+
+
+## Can you talk during a watch party?
+
+Yes, if the tool supports it. MoviesParty includes voice, video and text chat beside the player.
+
+
+## How do I stop echo in a watch party?
+
+Have everyone wear headphones and mute microphones when they are not talking.
+
+
+## Is MoviesParty free?
+
+Yes. The free plan includes 1080p, public rooms and chat. Premium adds 4K Ultra HD, private rooms and priority sync; pricing has not been announced yet.
+
 
 ---
 Source: https://moviesparty.com/how-to-host-a-watch-party/
@@ -146,47 +576,64 @@ MoviesParty › How to host a watch party
 ## How to host a watch party
 
 A good watch party takes five minutes to set up and an evening to enjoy. Here is the whole process, from picking the film to saying goodnight.
+
 Last updated: November 18, 2026
+
 Quick answer: Pick a film everyone can play, set a time, create a room, send the code and start with a shared countdown.
 
+
 ## 1. Pick a movie everyone can play
-Choose something the whole group is excited about, and confirm that each person can actually watch it, through their own subscription, a rental or a copy they own. MoviesParty does not host movies, so this check saves the most time.
+
+Choose something the whole group is excited about, and agree on the start time. Picking the movie first saves the most time.
+
 
 ## 2. Set a time and a backup plan
+
 Agree on a start time across time zones and ask everyone to join five to ten minutes early for audio and video checks. Decide in advance what happens if someone is late: wait, or catch up at the next pause.
 
+
 ## 3. Create the room and share the code
+
 In the MoviesParty Windows app, press the create button, pick a name and copy the room code. Send it in your group chat. Friends install the Windows app, open it and enter the code to join.
 
+
 ## 4. Check sound and picture
+
 Ask everyone to use headphones, so the movie audio does not leak into the voice chat. A quick test of microphone and camera before the countdown avoids awkward minutes later.
 
+
 ## 5. Start together
+
 When everyone is in, the host starts the countdown and all players begin on the same frame. Use text chat for quick reactions and voice for the good bits.
 
+
 ## Host etiquette that makes a night better
-Keep spoilers and long side conversations for the credits.
-Pause for bathroom and snack breaks instead of letting people fall behind.
-Mute your microphone when you are not talking.
+
+- Keep spoilers and long side conversations for the credits.
+- Pause for bathroom and snack breaks instead of letting people fall behind.
+- Mute your microphone when you are not talking.
 
 ## Frequently asked questions
 
+
 ## How many people can join a watch party?
+
 Room size depends on the plan and may change, so check the main page for current limits.
 
+
 ## Do guests need an account?
+
 Guests join with a room code. Each person still needs access to the movie they are playing.
 
+
 ## More guides
-How to watch movies together online
-Teleparty alternative
-Long-distance movie night ideas
-How to sync movies with friends
-Free watch party website
-Watch party vs screen sharing
-Watch party troubleshooting
-Ready for movie night? Create a room, send the code and press play together.
-Create a room
+
+- How to watch movies together online
+- Long-distance movie night ideas
+- How to sync movies with friends
+- Free watch party website
+- Watch party vs screen sharing
+- Watch party troubleshooting
 
 ---
 Source: https://moviesparty.com/long-distance-movie-night-ideas/
@@ -196,47 +643,58 @@ MoviesParty › Long-distance movie night ideas
 ## Long-distance movie night ideas
 
 Distance does not have to cancel movie night. These ideas turn a shared screen into a ritual people look forward to.
+
 Last updated: November 18, 2026
+
 Quick answer: Pick a theme, share the same snacks, use voice and video, schedule a recurring time and rotate who chooses the movie.
 
+
 ## Themed nights
-Decade night: everyone suggests one film from the same decade and you vote.
-Genre roulette: pick a genre, each person adds a title, then draw one at random.
-Worst movie night: choose something so bad it is good and trade jokes in chat.
+
+- Decade night: everyone suggests one film from the same decade and you vote.
+- Genre roulette: pick a genre, each person adds a title, then draw one at random.
+- Worst movie night: choose something so bad it is good and trade jokes in chat.
 
 ## Make it feel like one room
-Order or cook the same snack, even if it is just popcorn.
-Dim the lights and put your phone on silent.
-Keep camera tiles on during the trailer and ending, then switch to audio only.
+
+- Order or cook the same snack, even if it is just popcorn.
+- Dim the lights and put your phone on silent.
+- Keep camera tiles on during the trailer and ending, then switch to audio only.
 
 ## Handle time zones
+
 Pick a start time that falls in the evening for most people and rotate who gets the inconvenient slot. A recurring weekly date works better than ad hoc plans.
 
-## Keep it going
-Keep a shared list of films you want to watch.
-Rotate who chooses the movie each week.
-End with five minutes of ratings and favorite scenes.
 
+## Keep it going
+
+- Keep a shared list of films you want to watch.
+- Rotate who chooses the movie each week.
+- End with five minutes of ratings and favorite scenes.
 To run the night itself, see our guide on how to host a watch party.
+
 
 ## Frequently asked questions
 
+
 ## What is the best way to watch a movie with a long-distance partner?
-Use a watch party site where you both press play in sync and can talk during the film, and keep your own copy or subscription for the movie.
+
+Use a watch party site where you both press play in sync and can talk during the film.
+
 
 ## Can we watch together if we use different streaming services?
-Yes, with MoviesParty each person plays their own copy and the site syncs the playhead.
+
+Yes. With MoviesParty you create a room, share the code and watch together in sync, with voice, video and chat.
+
 
 ## More guides
-How to watch movies together online
-Teleparty alternative
-How to host a watch party
-How to sync movies with friends
-Free watch party website
-Watch party vs screen sharing
-Watch party troubleshooting
-Ready for movie night? Create a room, send the code and press play together.
-Create a room
+
+- How to watch movies together online
+- How to host a watch party
+- How to sync movies with friends
+- Free watch party website
+- Watch party vs screen sharing
+- Watch party troubleshooting
 
 ---
 Source: https://moviesparty.com/how-to-sync-movies-with-friends/
@@ -246,46 +704,55 @@ MoviesParty › How to sync movies with friends
 ## How to sync movies with friends
 
 Out-of-sync movies ruin jokes and jumpscares. Here is how syncing works and what to do when someone drifts.
+
 Last updated: November 18, 2026
-Quick answer: Make sure everyone has the same version and a stable connection, pause until all players have buffered, then resume together.
+
+Quick answer: Make sure everyone has a stable connection, pause until all players have buffered, then resume together.
+
 
 ## How watch party sync works
-A watch party tool does not stream the movie itself. It shares the play, pause and seek events and the current timestamp, and each player adjusts to match the host. That is why each person needs a copy of the film.
+
+A watch party tool shares the play, pause and seek events and the current timestamp, and each player adjusts to match the host.
+
 
 ## Common reasons playback drifts
-Different versions: a theatrical cut, an extended edition and a streaming release can differ by seconds or minutes.
-Slow connections: buffering pauses one player while the others continue.
-Heavy devices: a PC running many apps can stutter and fall behind.
-Intro or logo differences: studio logos can change the start of the file.
+
+- Slow connections: buffering pauses one player while the others continue.
+- Heavy devices: a PC running many apps can stutter and fall behind.
 
 ## Fixes that usually work
-Confirm everyone is watching the same version.
-Pause, let everyone finish buffering, then resume with the host.
-Close other tabs and apps using bandwidth.
-Drop the quality one step if buffering keeps happening.
-Rejoin the room with the same code if a player stays stuck.
+
+- Pause, let everyone finish buffering, then resume with the host.
+- Close other tabs and apps using bandwidth.
+- Drop the quality one step if buffering keeps happening.
+- Rejoin the room with the same code if a player stays stuck.
 
 ## Start right with a countdown
+
 Starting from a shared countdown puts all players on the same frame from the first second, which prevents most drift later. See the full process in how to host a watch party.
+
 
 ## Frequently asked questions
 
+
 ## Why is my friend a few seconds ahead?
-Usually a different version of the film or a buffering pause. Pause together and resume.
+
+Usually a buffering pause or a slow connection. Pause together and resume.
+
 
 ## Does syncing work on mobile?
+
 Not yet. MoviesParty is a Windows app for now, so everyone joins from a Windows PC.
 
+
 ## More guides
-How to watch movies together online
-Teleparty alternative
-How to host a watch party
-Long-distance movie night ideas
-Free watch party website
-Watch party vs screen sharing
-Watch party troubleshooting
-Ready for movie night? Create a room, send the code and press play together.
-Create a room
+
+- How to watch movies together online
+- How to host a watch party
+- Long-distance movie night ideas
+- Free watch party website
+- Watch party vs screen sharing
+- Watch party troubleshooting
 
 ---
 Source: https://moviesparty.com/free-watch-party-website/
@@ -295,49 +762,88 @@ MoviesParty › Free watch party website
 ## Free watch party website
 
 Free watch party sites exist, but "free" can mean different things. Here is what to look for.
-Last updated: November 18, 2026
-Quick answer: A free watch party website lets you create a room and watch together at no cost; you still need your own access to the movie. MoviesParty’s free plan includes 1080p, public rooms and chat.
+
+Last updated: November 21, 2026
+
+Quick answer: A free watch party website lets you create a room and watch together at no cost. MoviesParty’s free plan includes 1080p, public rooms and chat.
+
 
 ## What "free" usually means
-The watch party tool can be free while the movie is not. Most tools sync playback and do not provide films, so each person still needs a subscription, rental or copy of their own.
+
+A watch party tool can be free while the movies you want to watch are not. Check what you need to pay for before you pick one.
+
 
 ## What MoviesParty’s free plan includes
-1080p video
-Public rooms
-Chat
+
+- 1080p video
+- Public rooms
+- Chat
 Premium adds 4K Ultra HD, private rooms and priority sync. Pricing has not been announced yet.
 
+
 ## What to check before you pick a free tool
-Limits: room size, session length and video quality on the free tier.
-Privacy: read the policy to see what is collected and shared.
-Install: whether you need an extension or app, or can join from the browser.
-Content: whether the tool hosts films or only syncs your own copy.
+
+- Limits: room size, session length and video quality on the free tier.
+- Privacy: read the policy to see what is collected and shared.
+- Install: whether you need an extension or app, or can join from the browser.
+- Content: what you can actually watch in the tool, and whether that includes the movies you want.
 
 ## Start in three steps
-Create a room.
-Send the code to your friends.
-Press play together.
+
+- Create a room.
+- Send the code to your friends.
+- Press play together.
 The full walkthrough is in how to host a watch party.
 
+
+## Free plan and Premium side by side
+
+ | Free | Premium
+Video quality | 1080p | 4K Ultra HD
+Rooms | Public rooms | Private rooms
+Chat | Chat included | Chat included
+Sync | Synced playback | Priority sync
+Price | Free | Pricing not announced yet
+For most movie nights the free plan is enough. Premium is aimed at groups with a 4K screen who want private rooms.
+
+
+## Costs that are easy to miss
+
+- The movie itself. Some tools only sync videos you already have access to, so check whether you also need a subscription or rental elsewhere.
+- Several subscriptions. If your group wants to watch a title on one service, everyone may need an account there.
+- Hardware. 4K only helps if your screen and connection can handle it. Stay on 1080p if you are not sure.
+- Your time. A tool that needs a long setup for every guest is not free in practice. Look for a short room code and a simple join step.
+
+## Public and private rooms
+
+On MoviesParty’s free plan, rooms are public, and private rooms come with Premium. Public rooms suit relaxed movie nights where you share the room code only with people you invited. Do not post a room code anywhere you would not want strangers to see it.
+
+
+## A quick checklist for a free movie night
+
+- Agree on the movie and check that everyone can watch it in the tool you picked.
+- Create the room and send the code a few minutes before start time.
+- Ask everyone to wear headphones so the movie does not echo into the call.
+- Press play together when everyone has joined.
+If something goes wrong on the night, the troubleshooting guide lists the most common fixes.
+
+
 ## More guides
-How to watch movies together online
-Teleparty alternative
-How to host a watch party
-Long-distance movie night ideas
-How to sync movies with friends
-Watch party vs screen sharing
-Watch party troubleshooting
+
+- How to watch movies together online
+- How to host a watch party
+- Long-distance movie night ideas
+- How to sync movies with friends
+- Watch party vs screen sharing
+- Watch party troubleshooting
 
 ## Frequently asked questions
 
+
 ## Is there a completely free watch party website?
+
 Yes. MoviesParty has a free plan with 1080p, public rooms and chat.
 
-## Do I still need a streaming subscription?
-Usually yes. MoviesParty does not host movies, so each person plays their own copy or subscription.
-
-Ready for movie night? Create a room, send the code and press play together.
-Create a room
 
 ---
 Source: https://moviesparty.com/watch-party-vs-screen-sharing/
@@ -347,45 +853,100 @@ MoviesParty › Watch party vs screen sharing
 ## Watch party vs screen sharing
 
 Both let friends watch together, but they work very differently. Here is how they compare for movies.
-Last updated: November 18, 2026
-Quick answer: For movies, a watch party is usually better: each person plays their own video and the tool syncs the playhead, so quality does not depend on one person’s upload speed.
+
+Last updated: November 21, 2026
+
+Quick answer: For movies, a watch party is usually better: everyone watches in sync in the same room, so quality does not depend on one person’s upload speed.
+
 
 ## How each one works
+
 Screen sharing: one person plays the movie and streams their screen to everyone else. Watch party: each person plays the movie themselves and the tool keeps everyone on the same timestamp.
 
+
 ## Side by side
- |  | Screen sharing | Watch party
- | Picture quality | Limited by the host’s upload and compression | Each person’s own stream quality
- | Sync | Everyone sees the host’s screen, with some delay | Playhead synced to the host
- | Audio | Movie audio can be compressed or echo | Movie audio plays locally
- | Protected video | Some services show a black screen | Each person plays on the service itself
- | Who needs access | Only the host | Everyone needs their own copy or subscription
+
+ | Screen sharing | Watch party
+Picture quality | Limited by the host’s upload and compression | Not limited by the host’s upload
+Sync | Everyone sees the host’s screen, with some delay | Everyone stays on the same frame
+Audio | Movie audio can be compressed or echo | Movie audio plays locally
+Protected video | Some services show a black screen | No screen capture involved
+Who needs access | Only the host | Everyone joins the room with the app
 
 ## When screen sharing makes sense
+
 If only one person owns the movie, or you want to show something that is not a standard video, screen sharing is the simpler option.
 
+
 ## When a watch party makes sense
+
 For regular movie nights where everyone has access, a watch party gives better picture and lets you pause, seek and talk without stressing the host’s connection.
 
+
+## Which one fits which situation
+
+
+## Everyone can join the same room
+
+Use a watch party. Everyone watches at their own quality, and the tool keeps everyone on the same frame.
+
+
+## Only one person has the movie
+
+Screen sharing is the simple option. Expect a lower picture quality than a normal stream, and test it before the group joins.
+
+
+## A large group
+
+With screen sharing the host often becomes the bottleneck, because their connection has to carry the video for everyone watching. In a watch party the host does not have to send video to everyone, so adding a guest does not add load for the host.
+
+
+## Slides, games or something that is not a standard movie
+
+Screen sharing is the better tool. A watch party is built around a video that everyone can play themselves.
+
+
+## The audio problem
+
+When a movie is shared through a screen, its sound is captured, compressed and sent along with the call. Viewers can hear echo, lip-sync drift or a voice that is hard to understand over the film. In a watch party the audio plays locally on each device, so the movie sounds as it normally does and voice chat sits on top of it. Headphones still help to stop the movie from leaking into microphones.
+
+
+## Why protected video can show a black screen
+
+Some streaming services restrict screen capture for protected video, so a shared window can turn black. A watch party avoids this because nobody captures a screen.
+
+
+## Common mistakes
+
+- Starting a screen share without testing the audio first.
+- Expecting a host on a slow connection to stream a long film smoothly to many people.
+
+## Can you use both?
+
+Yes. Some groups use screen sharing for a one-off clip and a watch party for the main feature. If you want to try the watch party side, this guide shows how to set up a room in three steps, and how to watch movies together online compares the other options.
+
+
 ## More guides
-How to watch movies together online
-Teleparty alternative
-How to host a watch party
-Long-distance movie night ideas
-How to sync movies with friends
-Free watch party website
-Watch party troubleshooting
+
+- How to watch movies together online
+- How to host a watch party
+- Long-distance movie night ideas
+- How to sync movies with friends
+- Free watch party website
+- Watch party troubleshooting
 
 ## Frequently asked questions
 
+
 ## Is screen sharing good enough for movies?
+
 It works, but quality depends on the host’s connection and some services block shared playback.
 
-## Does a watch party need everyone to own the movie?
-Yes, each person plays their own copy or subscription and the site syncs the playhead.
 
-Ready for movie night? Create a room, send the code and press play together.
-Create a room
+## Does everyone need the app?
+
+Yes. Everyone in the MoviesParty room needs the Windows app and the room code.
+
 
 ---
 Source: https://moviesparty.com/watch-party-troubleshooting/
@@ -394,48 +955,97 @@ MoviesParty › Watch party troubleshooting
 
 ## Watch party troubleshooting
 
-Most watch party problems come down to audio, connection or version. Work through these checks.
-Last updated: November 18, 2026
-Quick answer: Use headphones to stop echo, allow microphone access in Windows, make sure everyone has the same movie version, and rejoin with the same room code if one person is stuck.
+Most watch party problems come down to audio, connection or sync. Work through these checks.
+
+Last updated: November 21, 2026
+
+Quick answer: Use headphones to stop echo, allow microphone access in Windows and rejoin with the same room code if one person is stuck.
+
 
 ## Echo or feedback
+
 Echo happens when movie audio reaches a microphone. Ask everyone to wear headphones, or mute microphones when not talking.
 
+
 ## Microphone not working
-Allow microphone access when Windows or the app asks.
-Open Windows Settings, then Privacy & security, then Microphone, and make sure apps can use it.
-Close other apps that use the microphone.
-Restart the app and rejoin the room.
+
+- Allow microphone access when Windows or the app asks.
+- Open Windows Settings, then Privacy & security, then Microphone, and make sure apps can use it.
+- Close other apps that use the microphone.
+- Restart the app and rejoin the room.
 
 ## Buffering and lag
-Use a stable Wi-Fi or wired connection.
-Close other tabs and downloads.
-Lower the video quality one step.
+
+- Use a stable Wi-Fi or wired connection.
+- Close other tabs and downloads.
+- Lower the video quality one step.
 
 ## Room code not working
-Check for typos and extra spaces.
-Ask the host to confirm the room is still open.
-Create a new room and share the new code.
+
+- Check for typos and extra spaces.
+- Ask the host to confirm the room is still open.
+- Create a new room and share the new code.
 
 ## Out of sync
-Read how to sync movies with friends for version checks and resync steps.
+
+Read how to sync movies with friends for resync steps.
+
+
+## Quick diagnosis
+
+What you see | Likely cause | First thing to try
+Friends hear the movie through your mic | Speakers feeding the microphone | Wear headphones or mute when not talking
+Nobody hears you | Microphone blocked or used by another app | Allow microphone access in Windows and close other apps that use it
+Nobody sees you | Camera blocked or in use | Allow camera access in Windows and close other apps that use it
+Video keeps stopping | Slow or shared connection | Use a wired or stable Wi-Fi connection and lower the quality one step
+Room code rejected | Typo, extra space or closed room | Re-enter the code, or ask the host for a new room
+One person is ahead or behind | Buffering, or a missed pause | Pause, compare timestamps and press play together again
+
+## Camera not working
+
+- Allow camera access when Windows or the app asks.
+- Open Windows Settings, then Privacy & security, then Camera, and make sure apps can use it.
+- Close other apps that use the camera, such as a video call that is still open.
+- Restart the app and rejoin the room.
+
+## One person is out of sync
+
+- Ask the host to pause the movie.
+- Have the person who is off move to the same timestamp as the host.
+- Press play together again.
+The guide to syncing movies with friends explains this in more detail.
+
+
+## A checklist before every movie night
+
+- Everyone has the app open and has tested their microphone.
+- Everyone has headphones ready.
+- Large downloads and updates are paused on every connection.
+- The room code is sent a few minutes before start time.
+
+## When nothing works
+
+Restart the app and rejoin with the same room code. If that fails, ask the host to create a new room and share the new code. If a problem keeps coming back, write to contact@moviesparty.com with a short description, what you were doing and which Windows version you use.
+
 
 ## More guides
-How to watch movies together online
-Teleparty alternative
-How to host a watch party
-Long-distance movie night ideas
-How to sync movies with friends
-Free watch party website
-Watch party vs screen sharing
+
+- How to watch movies together online
+- How to host a watch party
+- Long-distance movie night ideas
+- How to sync movies with friends
+- Free watch party website
+- Watch party vs screen sharing
 
 ## Frequently asked questions
 
+
 ## Why can’t my friends hear me?
+
 Usually microphone access is blocked in Windows or another app is using the microphone.
 
+
 ## Why does the movie keep buffering?
+
 Slow or shared Wi-Fi is the most common cause. Close other downloads and lower the quality.
 
-Ready for movie night? Create a room, send the code and press play together.
-Create a room
