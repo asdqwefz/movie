@@ -4799,7 +4799,7 @@
                     function copy() { try { navigator.clipboard.writeText(code).then(function () { var s = $("#cpb span"); s.textContent = T.ok; setTimeout(function () { s.textContent = T.cp }, 1600) }) } catch (_) { } }
                     $("#cpb").onclick = copy; $("#shb").onclick = function () { if (navigator.share) { navigator.share({ title: "MoviesParty", text: code, url: roomLink(code) }).catch(function () { }) } else { try { navigator.clipboard.writeText(roomLink(code)); msg2.textContent = T.ok; setTimeout(function () { msg2.textContent = "" }, 1600) } catch (_) { } } };
                     $("#sgo").onclick = function () { enterRoom(code) };
-                    var DL = { win: "https://www.dropbox.com/scl/fi/esj1jnicgf8u19b1ksszv/MoviesParty.exe?rlkey=biozu7v17krvth20fpq6bwztf&st=kuic761s&dl=1", mac: "" }, rmTimer = 0; /* put your installer links here: DL.win="https://…/MoviesParty.exe"; DL.mac="https://…/MoviesParty.dmg"; */
+                    var DL = { win: "https://www.dropbox.com/scl/fi/4yfyzspuh5wwptwbwabzf/MoviesParty.exe?rlkey=7njlbz2e1htn5r8o4mc20fp0p&st=nmpypq37&dl=1", mac: "" }, rmTimer = 0; /* put your installer links here: DL.win="https://…/MoviesParty.exe"; DL.mac="https://…/MoviesParty.dmg"; */
                     function setDL(b, name, url) { if (!b) return; b.textContent = name + (url ? "" : " · " + T.soon); b.disabled = !url; b.onclick = url ? function () { location.href = url } : null }
                     function refreshDL() { setDL($("#dwin"), "Windows", DL.win); setDL($("#dmac"), "macOS", DL.mac) }
                     refreshDL(); lg.addEventListener("change", refreshDL);
